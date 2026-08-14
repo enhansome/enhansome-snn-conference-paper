@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 461 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 462 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -1255,7 +1255,7 @@
 
 ## NeurIPS-2021
 
-* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 196 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 197 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

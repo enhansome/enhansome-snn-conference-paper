@@ -1774,7 +1774,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:31:27.301Z",
+    "last_updated": "2026-08-14T10:27:27.884Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
