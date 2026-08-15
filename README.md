@@ -189,7 +189,7 @@
 
 * SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
 
-* Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
+* Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
 
 * I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] \[[code](https://github.com/Ruichen0424/I2E) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 
@@ -951,9 +951,9 @@
 
 * Mind the spikes: Benign overfitting of kernels and neural networks in fixed dimension \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/421f83663c02cdaec8c3c38337709989-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2305.14077)] \[[paper with code](https://paperswithcode.com/paper/mind-the-spikes-benign-overfitting-of-kernels)] \[[code](https://github.com/moritzhaas/mind-the-spikes) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-10-30] \[[openreview](https://openreview.net/forum?id=yjYwbZBJyl)]
 
-* SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdcaf772b4f8eda0385d0930517de64a-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2401.03137)] \[[paper with code](https://paperswithcode.com/paper/spqr-controlling-q-ensemble-independence-with-1)] \[[code](https://github.com/dohyeoklee/SPQR) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=q0sdoFIfNg)]
-
 * Direct Training of SNN using Local Zeroth Order Method \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3c5e64f26a97db6a2b0bbb788236431e-Abstract-Conference.html)] \[[paper with code](https://paperswithcode.com/paper/direct-training-of-snn-using-local-zeroth)] \[[code](https://github.com/bhaskarmukhoty/localzo) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2023-12-07] \[[openreview](https://openreview.net/forum?id=eTF3VDH2b6)]
+
+* SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cdcaf772b4f8eda0385d0930517de64a-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2401.03137)] \[[paper with code](https://paperswithcode.com/paper/spqr-controlling-q-ensemble-independence-with-1)] \[[code](https://github.com/dohyeoklee/SPQR) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=q0sdoFIfNg)]
 
 * Evolving Connectivity for Recurrent Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/08f9de0232c0b485110237f6e6cf88f1-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2305.17650)] \[[paper with code](https://paperswithcode.com/paper/evolving-connectivity-for-recurrent-spiking)] \[[openreview](https://openreview.net/forum?id=30o4ARmfC3)]
 
@@ -1287,7 +1287,7 @@
 
 ## ICCV-2021
 
-* Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2007.05785)] \[[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 123 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
+* Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2007.05785)] \[[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
 
 * HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2110.11417)] \[[paper with code](https://paperswithcode.com/paper/hire-snn-harnessing-the-inherent-robustness-1)] \[[code](https://github.com/ksouvik52/hiresnn2021) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2022-05-13]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

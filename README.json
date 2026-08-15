@@ -42,7 +42,7 @@
             "last_commit": "2026-01-17T07:32:04Z",
             "owner": "junjianli106",
             "repo": "MiCo",
-            "stars": 12
+            "stars": 11
           }
         },
         {
@@ -1147,20 +1147,6 @@
         },
         {
           "node_type": "item",
-          "title": "SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [paper",
-          "description": "] [arxiv] [paper with code] [code] [openreview]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-21T16:47:53Z",
-            "owner": "dohyeoklee",
-            "repo": "SPQR",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Direct Training of SNN using Local Zeroth Order Method [paper",
           "description": "] [paper with code] [code] [openreview]",
           "children": [],
@@ -1171,6 +1157,20 @@
             "owner": "BhaskarMukhoty",
             "repo": "LocalZO",
             "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [paper",
+          "description": "] [arxiv] [paper with code] [code] [openreview]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T16:47:53Z",
+            "owner": "dohyeoklee",
+            "repo": "SPQR",
+            "stars": 5
           }
         }
       ],
@@ -1850,7 +1850,7 @@
             "last_commit": "2022-08-09T03:31:50Z",
             "owner": "fangwei123456",
             "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:27:27.884Z",
+    "last_updated": "2026-08-15T09:44:21.135Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
