@@ -187,7 +187,7 @@
 
 * Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
 
-* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
+* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
 
 * Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
