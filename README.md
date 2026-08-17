@@ -1013,7 +1013,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 411 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 412 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1113,7 +1113,7 @@
 
 ## NeurIPS-2022
 
-* Online Training Through Time for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04195)] \[[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] \[[code](https://github.com/pkuxmq/ottt-snn) ⭐ 69 | 🐛 4 | 🌐 Python | 📅 2023-12-08] \[[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
+* Online Training Through Time for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04195)] \[[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] \[[code](https://github.com/pkuxmq/ottt-snn) ⭐ 70 | 🐛 4 | 🌐 Python | 📅 2023-12-08] \[[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
 
 * GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.13768)] \[[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] \[[code](https://github.com/ikarosy/gated-lif) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2023-02-18] \[[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

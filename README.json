@@ -1266,7 +1266,7 @@
             "last_commit": "2024-01-23T08:54:58Z",
             "owner": "ZK-Zhou",
             "repo": "spikformer",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2023-12-08T08:49:48Z",
             "owner": "pkuxmq",
             "repo": "OTTT-SNN",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:46:44.779Z",
+    "last_updated": "2026-08-17T10:00:59.798Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
