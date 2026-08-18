@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 462 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 461 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -533,7 +533,7 @@
 
 * STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34574)] \[[arxiv](https://arxiv.org/abs/2503.02689v2)] \[[paper with code](https://paperswithcode.com/paper/staa-snn-spatial-temporal-attention)]
 
-* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 29 | 🐛 7 | 🌐 Python | 📅 2026-01-26]
+* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
 
 * Spiking Transformer with Spatial-Temporal Attention \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34119)] \[[arxiv](https://arxiv.org/abs/2409.19764v2)] \[[paper with code](https://paperswithcode.com/paper/spiking-transformer-with-spatial-temporal)]
 
@@ -801,7 +801,7 @@
 
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18850)] \[[arxiv](https://arxiv.org/abs/2305.19306)] \[[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] \[[code](https://github.com/edisonleeeee/spikegcl) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08] \[[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
-* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 13 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
+* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
 
 * EventRPG: Event Data Augmentation with Relevance Propagation Guidance \[[paper](https://arxiv.org/abs/2403.09274)] \[[code](https://github.com/myuansun/EventRPG) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-01-09]
 
@@ -843,7 +843,7 @@
 
 * Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 254 | 🐛 9 | 🌐 Python | 📅 2025-06-30]
 
-* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
+* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
@@ -903,7 +903,7 @@
 
 * Towards Memory- and Time-Efficient Backpropagation for Training Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Meng_Towards_Memory-_and_Time-Efficient_Backpropagation_for_Training_Spiking_Neural_Networks_ICCV_2023_paper.html)] \[[arxiv](https://arxiv.org/abs/2302.14311)] \[[paper with code](https://paperswithcode.com/paper/towards-memory-and-time-efficient)] \[[code](https://github.com/qymeng94/sltt) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2023-08-02]
 
-* Masked Spiking Transformer \[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] \[[arxiv](https://arxiv.org/abs/2210.01208)] \[[paper with code](https://paperswithcode.com/paper/efficient-spiking-transformer-enabled-by)] \[[code](https://github.com/bic-L/Masked-Spiking-Transformer) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-05-10]
+* Masked Spiking Transformer \[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Masked_Spiking_Transformer_ICCV_2023_paper.html)] \[[arxiv](https://arxiv.org/abs/2210.01208)] \[[paper with code](https://paperswithcode.com/paper/efficient-spiking-transformer-enabled-by)] \[[code](https://github.com/bic-L/Masked-Spiking-Transformer) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-05-10]
 
 * Inherent Redundancy in Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Inherent_Redundancy_in_Spiking_Neural_Networks_ICCV_2023_paper.html)] \[[arxiv](https://arxiv.org/abs/2308.08227)] \[[paper with code](https://paperswithcode.com/paper/inherent-redundancy-in-spiking-neural)] \[[code](https://github.com/biclab/asa-snn) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-01-07]
 
@@ -931,7 +931,7 @@
 
 * Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 315 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
-* Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
+* Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
 * Spiking PointNet: Spiking Neural Networks for Point Clouds \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8296d5800a8e68e58ad0472b393be80e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2310.06232)] \[[paper with code](https://paperswithcode.com/paper/spiking-pointnet-spiking-neural-networks-for)] \[[code](https://github.com/dayongren/spiking-pointnet) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2023-10-09] \[[openreview](https://openreview.net/forum?id=Ev2XuqvJCy)]
 
@@ -1255,7 +1255,7 @@
 
 ## NeurIPS-2021
 
-* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 197 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 198 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

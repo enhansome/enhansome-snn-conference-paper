@@ -748,7 +748,7 @@
             "last_commit": "2024-09-20T18:23:14Z",
             "owner": "zeyuliu1037",
             "repo": "LMUFormer",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2025-07-13T11:24:59Z",
             "owner": "bic-L",
             "repo": "Spiking-Wavelet-Transformer",
-            "stars": 43
+            "stars": 42
           }
         },
         {
@@ -940,7 +940,7 @@
             "last_commit": "2026-05-10T11:48:24Z",
             "owner": "bic-L",
             "repo": "Masked-Spiking-Transformer",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -1016,7 +1016,7 @@
             "last_commit": "2024-01-21T11:10:20Z",
             "owner": "fangwei123456",
             "repo": "Parallel-Spiking-Neuron",
-            "stars": 57
+            "stars": 56
           }
         },
         {
@@ -1774,7 +1774,7 @@
             "last_commit": "2022-08-09T02:55:18Z",
             "owner": "fangwei123456",
             "repo": "Spike-Element-Wise-ResNet",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -2208,7 +2208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:00:59.798Z",
+    "last_updated": "2026-08-18T09:52:02.700Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
