@@ -765,7 +765,7 @@
 
 * Finding Visual Saliency in Continuous Spike Stream \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)] \[[arxiv](https://arxiv.org/abs/2403.06233)] \[[paper with code](https://paperswithcode.com/paper/finding-visual-saliency-in-continuous-spike)] \[[code](https://github.com/bit-vision/svs) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2025-08-21]
 
-* An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] \[[arxiv](https://arxiv.org/abs/2303.13077)] \[[paper with code](https://paperswithcode.com/paper/improving-the-performance-of-spiking-neural)] \[[code](https://github.com/brain-cog-lab/transfer-for-dvs) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2025-05-09]
+* An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] \[[arxiv](https://arxiv.org/abs/2303.13077)] \[[paper with code](https://paperswithcode.com/paper/improving-the-performance-of-spiking-neural)] \[[code](https://github.com/brain-cog-lab/transfer-for-dvs) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-05-09]
 
 * Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27804)]
 
@@ -845,7 +845,7 @@
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
-* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
+* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
 * BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
