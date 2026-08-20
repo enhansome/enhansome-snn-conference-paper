@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 461 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 462 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -703,9 +703,9 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 643 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 644 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
-* Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 78 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
+* Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
 * LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization  \[[arxiv](https://arxiv.org/abs/2401.14652v2)] \[[paper with code](https://paperswithcode.com/paper/lite-snn-designing-lightweight-and-efficient)]
 
@@ -1013,7 +1013,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 412 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 413 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 643 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 644 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

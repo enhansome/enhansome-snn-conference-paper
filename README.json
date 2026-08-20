@@ -462,7 +462,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 643
+                "stars": 644
               }
             },
             {
@@ -477,7 +477,7 @@
                 "last_commit": "2025-07-07T03:35:20Z",
                 "owner": "MingTian99",
                 "repo": "ESDNet",
-                "stars": 78
+                "stars": 79
               }
             }
           ],
@@ -1378,7 +1378,7 @@
                 "last_commit": "2024-01-23T08:54:58Z",
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 412
+                "stars": 413
               }
             },
             {
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:22.039Z",
+    "last_updated": "2026-08-20T09:52:57.940Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_id": 618259843,
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
