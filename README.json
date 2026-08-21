@@ -337,7 +337,7 @@
                 "last_commit": "2025-02-10T02:31:59Z",
                 "owner": "shen-aoyu",
                 "repo": "CREST",
-                "stars": 10
+                "stars": 11
               }
             }
           ],
@@ -646,21 +646,6 @@
             },
             {
               "node_type": "item",
-              "title": "SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [paper",
-              "description": "] [arxiv] [paper with code] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 732275312,
-                "language": "Python",
-                "last_commit": "2024-02-21T05:00:41Z",
-                "owner": "NeuroCompLab-psu",
-                "repo": "SpikingBERT",
-                "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [paper",
               "description": "] [arxiv] [paper with code] [code]",
               "children": [],
@@ -671,6 +656,21 @@
                 "last_commit": "2023-12-14T15:17:30Z",
                 "owner": "yfguo91",
                 "repo": "Ternary-Spike",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation [paper",
+              "description": "] [arxiv] [paper with code] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732275312,
+                "language": "Python",
+                "last_commit": "2024-02-21T05:00:41Z",
+                "owner": "NeuroCompLab-psu",
+                "repo": "SpikingBERT",
                 "stars": 29
               }
             },
@@ -865,7 +865,7 @@
                 "last_commit": "2024-03-11T02:25:25Z",
                 "owner": "yimeng-fan",
                 "repo": "SFOD",
-                "stars": 40
+                "stars": 41
               }
             }
           ],
@@ -887,7 +887,7 @@
                 "last_commit": "2025-06-30T05:52:54Z",
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2025-04-21T10:26:20Z",
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
-                "stars": 195
+                "stars": 196
               }
             },
             {
@@ -1458,7 +1458,7 @@
                 "last_commit": "2025-03-15T12:48:07Z",
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4419
+                "stars": 4418
               }
             },
             {
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:52:57.940Z",
+    "last_updated": "2026-08-21T09:54:37.860Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_id": 618259843,
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
