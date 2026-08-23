@@ -195,7 +195,7 @@
                 "last_commit": "2024-07-09T06:18:40Z",
                 "owner": "Xingrun-Xing",
                 "repo": "SpikeLM",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -462,7 +462,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 644
+                "stars": 645
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2024-07-09T06:18:40Z",
                 "owner": "Xingrun-Xing",
                 "repo": "SpikeLM",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -746,7 +746,7 @@
                 "last_commit": "2025-05-09T08:00:52Z",
                 "owner": "Brain-Cog-Lab",
                 "repo": "Transfer-for-DVS",
-                "stars": 11
+                "stars": 12
               }
             }
           ],
@@ -1094,7 +1094,7 @@
                 "last_commit": "2024-03-18T06:56:13Z",
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 315
+                "stars": 316
               }
             },
             {
@@ -2432,7 +2432,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:46:08.944Z",
+    "last_updated": "2026-08-23T09:46:55.920Z",
     "original_repository": "AXYZdong/awesome-snn-conference-paper",
     "original_repository_id": 618259843,
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
