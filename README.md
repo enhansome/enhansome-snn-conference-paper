@@ -527,13 +527,13 @@
 
 ## CVPR-2025
 
+* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
+
 * Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33151)]
 
 * Spk2SRImgNet: Super-Resolve Dynamic Scene from Spike Stream via Motion Aligned Collaborative Filtering \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33079)]
 
 * STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34574)] \[[arxiv](https://arxiv.org/abs/2503.02689v2)] \[[paper with code](https://paperswithcode.com/paper/staa-snn-spatial-temporal-attention)]
-
-* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
 
 * Spiking Transformer with Spatial-Temporal Attention \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34119)] \[[arxiv](https://arxiv.org/abs/2409.19764v2)] \[[paper with code](https://paperswithcode.com/paper/spiking-transformer-with-spatial-temporal)]
 
@@ -583,6 +583,8 @@
 
 ## ICASSP-2025
 
+* Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks \[[paper](https://ieeexplore.ieee.org/document/10890472/)] \[[arxiv](https://arxiv.org/abs/2409.04978v2)] \[[paper with code](https://paperswithcode.com/paper/time-independent-spiking-neuron-via-membrane)] \[[code](https://github.com/chrazqee/mpe-psn) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-21]
+
 * Spiking Transformer with Spatial-Temporal Spiking Self-Attention \[[paper](https://ieeexplore.ieee.org/document/10890026/)]
 
 * SpikingPoint: Rethinking Point as Spike for Efficient 3D Point Cloud Analysis \[[paper](https://ieeexplore.ieee.org/document/10890503/)]
@@ -594,8 +596,6 @@
 * Event-Driven Prony: Towards Asynchronous Spectral Estimation \[[paper](https://ieeexplore.ieee.org/document/10890180/)]
 
 * Robust and Efficient Adversarial Defense in SNNs via Image Purification and Joint Detection \[[paper](https://ieeexplore.ieee.org/document/10888581/)]
-
-* Time-independent Spiking Neuron via Membrane Potential Estimation for Efficient Spiking Neural Networks \[[paper](https://ieeexplore.ieee.org/document/10890472/)] \[[arxiv](https://arxiv.org/abs/2409.04978v2)] \[[paper with code](https://paperswithcode.com/paper/time-independent-spiking-neuron-via-membrane)] \[[code](https://github.com/chrazqee/mpe-psn) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-01-21]
 
 * Spiking Generative Models Based on Variational Autoencoder and Adversarial Training \[[paper](https://ieeexplore.ieee.org/document/10890460/)]
 
@@ -863,9 +863,9 @@
 
 ## ICASSP-2024
 
-* sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks \[[paper](https://arxiv.org/abs/2403.05772)]
-
 * Optimal ANN-SNN Conversion with Group Neurons \[[paper](https://arxiv.org/abs/2402.19061)] \[[code](https://github.com/Lyu6PosHao/ANN2SNN_GN) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-03-01]
+
+* sVAD: A Robust, Low-Power, and Light-Weight Voice Activity Detection with Spiking Neural Networks \[[paper](https://arxiv.org/abs/2403.05772)]
 
 ## PAMI-2024
 
@@ -1281,9 +1281,9 @@
 
 ## ICLR-2021
 
-* Efficient Inference of Flexible Interaction in Spiking-neuron Networks \[[paper](https://iclr.cc/virtual/2021/poster/2648)] \[[arxiv](https://arxiv.org/abs/2006.12845)] \[[paper with code](https://paperswithcode.com/paper/efficient-inference-of-nonparametric)] \[[openreview](https://openreview.net/forum?id=aGfU_xziEX8)]
-
 * Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2021/poster/2644)] \[[arxiv](https://arxiv.org/abs/2103.00476)] \[[paper with code](https://paperswithcode.com/paper/optimal-conversion-of-conventional-artificial-1)] \[[code](https://github.com/Jackn0/snn_optimal_conversion_pipeline) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2021-12-03] \[[openreview](https://openreview.net/forum?id=FZ1oTwcXchK)]
+
+* Efficient Inference of Flexible Interaction in Spiking-neuron Networks \[[paper](https://iclr.cc/virtual/2021/poster/2648)] \[[arxiv](https://arxiv.org/abs/2006.12845)] \[[paper with code](https://paperswithcode.com/paper/efficient-inference-of-nonparametric)] \[[openreview](https://openreview.net/forum?id=aGfU_xziEX8)]
 
 ## ICCV-2021
 
@@ -1357,9 +1357,9 @@
 
 ## CVPR-2020
 
-* Retina-Like Visual Image Reconstruction via Spiking Neural Model \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html)] \[[paper with code](https://paperswithcode.com/paper/retina-like-visual-image-reconstruction-via)]
-
 * RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.html)] \[[arxiv](https://arxiv.org/abs/2003.01811)] \[[paper with code](https://paperswithcode.com/paper/rmp-snns-residual-membrane-potential-neuron)] \[[code](https://github.com/facebookarchive/fb.resnet.torch) ⚠️ Archived]
+
+* Retina-Like Visual Image Reconstruction via Spiking Neural Model \[[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html)] \[[paper with code](https://paperswithcode.com/paper/retina-like-visual-image-reconstruction-via)]
 
 ## ICLR-2020
 
@@ -1383,9 +1383,9 @@
 
 ## IJCAI-2020
 
-* LISNN: Improving Spiking Neural Networks with Lateral Interactions for Robust Object Recognition \[[paper](https://www.ijcai.org/proceedings/2020/211)]
-
 * Exploiting Neuron and Synapse Filter Dynamics in Spatial Temporal Learning of Deep Spiking Neural Network \[[paper](https://www.ijcai.org/proceedings/2020/388)] \[[arxiv](https://arxiv.org/abs/2003.02944)] \[[paper with code](https://paperswithcode.com/paper/exploiting-neuron-and-synapse-filter-dynamics)] \[[code](https://github.com/Snow-Crash/snn-iir) ⭐ 45 | 🐛 4 | 🌐 Python | 📅 2024-07-25]
+
+* LISNN: Improving Spiking Neural Networks with Lateral Interactions for Robust Object Recognition \[[paper](https://www.ijcai.org/proceedings/2020/211)]
 
 ## AAAI-2020
 
@@ -1415,9 +1415,9 @@
 
 ## ICML-2019
 
-* Weak Detection of Signal in the Spiked Wigner Model \[[paper](https://proceedings.mlr.press/v97/chung19a.html)]
-
 * Bayesian Joint Spike-and-Slab Graphical Lasso \[[paper](https://proceedings.mlr.press/v97/li19h.html)] \[[arxiv](https://arxiv.org/abs/1805.07051)] \[[paper with code](https://paperswithcode.com/paper/bayesian-joint-spike-and-slab-graphical-lasso)] \[[code](https://github.com/richardli/SSJGL) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2019-05-09]
+
+* Weak Detection of Signal in the Spiked Wigner Model \[[paper](https://proceedings.mlr.press/v97/chung19a.html)]
 
 * Passed & Spurious: Descent Algorithms and Local Minima in Spiked Matrix-Tensor Models \[[paper](https://proceedings.mlr.press/v97/mannelli19a.html)] \[[arxiv](https://arxiv.org/abs/1902.00139)]
 
