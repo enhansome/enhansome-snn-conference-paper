@@ -749,7 +749,7 @@
 
 ## AAAI-2024
 
-* Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] \[[arxiv](https://arxiv.org/abs/2308.06582)] \[[paper with code](https://paperswithcode.com/paper/gated-attention-coding-for-training-high)] \[[code](https://github.com/bollossom/GAC) ⭐ 121 | 🐛 0 | 🌐 Python | 📅 2024-05-31]
+* Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] \[[arxiv](https://arxiv.org/abs/2308.06582)] \[[paper with code](https://paperswithcode.com/paper/gated-attention-coding-for-training-high)] \[[code](https://github.com/bollossom/GAC) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2024-05-31]
 
 * DeblurSR: Event-Based Motion Deblurring under the Spiking Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] \[[arxiv](https://arxiv.org/abs/2303.08977)] \[[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] \[[code](https://github.com/chensong1995/deblursr) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2024-11-08]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
