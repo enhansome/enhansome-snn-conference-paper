@@ -506,7 +506,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 645
+                "stars": 646
               }
             },
             {
@@ -543,7 +543,7 @@
                 "last_commit": "2026-02-08T14:29:53Z",
                 "owner": "microsoft",
                 "repo": "SeqSNN",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -1525,7 +1525,7 @@
                 "last_commit": "2025-11-06T13:37:53Z",
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 645
+                "stars": 646
               }
             }
           ],
@@ -2696,9 +2696,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:50.747Z",
-    "original_repository": "AXYZdong/awesome-snn-conference-paper",
-    "original_repository_id": 618259843,
+    "last_updated": "2026-08-27T12:03:22.127Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 618259843,
+      "language": "HTML",
+      "last_commit": "2026-05-04T00:51:14Z",
+      "owner": "AXYZdong",
+      "repo": "awesome-snn-conference-paper",
+      "stars": 463
+    },
     "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
     "enhanced_repository_description": null,

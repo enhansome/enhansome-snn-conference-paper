@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 645 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 646 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -717,7 +717,7 @@
 
 ## ICML-2024
 
-* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 91 | 🐛 12 | 🌐 Python | 📅 2026-02-08]
+* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 92 | 🐛 12 | 🌐 Python | 📅 2026-02-08]
 
 * SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN \[[paper](https://openreview.net/attachment?id=NeotatlYOL\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2406.03470v1)] \[[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for#code)] \[[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2024-12-04]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 645 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 646 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
