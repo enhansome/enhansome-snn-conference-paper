@@ -527,7 +527,7 @@
 
 ## CVPR-2025
 
-* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 29 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
+* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 30 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
 
 * Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33151)]
 
@@ -639,7 +639,7 @@
 
 * Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
-* SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
+* SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 
 * Spiking Graph Neural Network on Riemannian Manifolds \[[paper](https://nips.cc/virtual/2024/poster/94910)] \[[arxiv](https://arxiv.org/abs/2410.17941v1)] \[[paper with code](https://paperswithcode.com/paper/spiking-graph-neural-network-on-riemannian)] \[[code](https://github.com/ZhenhHuang/MSG) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-10-22]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
