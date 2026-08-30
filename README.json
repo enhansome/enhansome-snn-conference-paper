@@ -999,7 +999,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-12-14T15:17:30Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "yfguo91",
                 "repo": "Ternary-Spike",
                 "stars": 30,
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:32:59.835Z",
+    "last_updated": "2026-08-30T14:26:40.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

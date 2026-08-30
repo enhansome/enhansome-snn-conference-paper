@@ -753,7 +753,7 @@
 
 * DeblurSR: Event-Based Motion Deblurring under the Spiking Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] \[[arxiv](https://arxiv.org/abs/2303.08977)] \[[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] \[[code](https://github.com/chensong1995/deblursr) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2024-11-08]
 
-* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2023-12-14]
+* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
 
 * SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28975)] \[[arxiv](https://arxiv.org/abs/2308.10873)] \[[paper with code](https://paperswithcode.com/paper/spikingbert-distilling-bert-to-train-spiking)] \[[code](https://github.com/neurocomplab-psu/spikingbert) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2024-02-21]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
