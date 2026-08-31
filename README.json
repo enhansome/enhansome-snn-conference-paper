@@ -1044,7 +1044,7 @@
                 "open_issues": 7,
                 "owner": "zju-bmi-lab",
                 "repo": "SpikingNeRF",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1128,7 +1128,7 @@
                 "open_issues": 3,
                 "owner": "Brain-Cog-Lab",
                 "repo": "Transfer-for-DVS",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1704,7 +1704,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:26:40.529Z",
+    "last_updated": "2026-08-31T17:06:42.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

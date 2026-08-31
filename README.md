@@ -757,7 +757,7 @@
 
 * SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28975)] \[[arxiv](https://arxiv.org/abs/2308.10873)] \[[paper with code](https://paperswithcode.com/paper/spikingbert-distilling-bert-to-train-spiking)] \[[code](https://github.com/neurocomplab-psu/spikingbert) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2024-02-21]
 
-* Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29285)] \[[arxiv](https://arxiv.org/abs/2311.09077)] \[[paper with code](https://paperswithcode.com/paper/spiking-nerf-representing-the-real-world)] \[[code](https://github.com/liaozhanfeng/spiking-nerf) ⭐ 24 | 🐛 7 | 🌐 Python | 📅 2024-10-15]
+* Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29285)] \[[arxiv](https://arxiv.org/abs/2311.09077)] \[[paper with code](https://paperswithcode.com/paper/spiking-nerf-representing-the-real-world)] \[[code](https://github.com/liaozhanfeng/spiking-nerf) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2024-10-15]
 
 * TC-LIF: A Two-Compartment Spiking Neuron Model for Long-Term Sequential Modelling \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29625)] \[[arxiv](https://arxiv.org/abs/2308.13250)] \[[paper with code](https://paperswithcode.com/paper/tc-lif-a-two-compartment-spiking-neuron-model)] \[[code](https://github.com/zhangshimin1/tc-lif) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2024-08-23]
 
@@ -765,7 +765,7 @@
 
 * Finding Visual Saliency in Continuous Spike Stream \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28610)] \[[arxiv](https://arxiv.org/abs/2403.06233)] \[[paper with code](https://paperswithcode.com/paper/finding-visual-saliency-in-continuous-spike)] \[[code](https://github.com/bit-vision/svs) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2025-08-21]
 
-* An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] \[[arxiv](https://arxiv.org/abs/2303.13077)] \[[paper with code](https://paperswithcode.com/paper/improving-the-performance-of-spiking-neural)] \[[code](https://github.com/brain-cog-lab/transfer-for-dvs) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2025-05-09]
+* An Efficient Knowledge Transfer Strategy for Spiking Neural Networks from Static to Event Domain \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27806)] \[[arxiv](https://arxiv.org/abs/2303.13077)] \[[paper with code](https://paperswithcode.com/paper/improving-the-performance-of-spiking-neural)] \[[code](https://github.com/brain-cog-lab/transfer-for-dvs) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2025-05-09]
 
 * Enhancing the Robustness of Spiking Neural Networks with Stochastic Gating Mechanisms \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27804)]
 
@@ -929,7 +929,7 @@
 
 ## NeurIPS-2023
 
-* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 316 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
+* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 317 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
 * Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
