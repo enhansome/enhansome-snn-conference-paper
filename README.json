@@ -119,7 +119,7 @@
                 "open_issues": 0,
                 "owner": "JiangshuaiXu",
                 "repo": "HLML_SNN",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -276,7 +276,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-26T12:34:03Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "chenkang455",
                 "repo": "USP-Gaussian",
                 "stars": 30,
@@ -716,7 +716,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1221,7 +1221,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-09-20T18:23:14Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "zeyuliu1037",
                 "repo": "LMUFormer",
                 "stars": 14,
@@ -2168,7 +2168,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2922,7 +2922,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:06:42.940Z",
+    "last_updated": "2026-09-01T14:11:29.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 464,
+      "stars": 465,
       "topics": [
         "awesome",
         "awesome-list",

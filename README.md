@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 464 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 465 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -193,7 +193,7 @@
 
 * I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] \[[code](https://github.com/Ruichen0424/I2E) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 
-* HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] \[[code](https://github.com/JiangshuaiXu/HLML_SNN) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-12-03]
+* HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] \[[code](https://github.com/JiangshuaiXu/HLML_SNN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-12-03]
 
 * LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] \[[code](https://github.com/hacilab/P3HF) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-12-07]
 
@@ -527,7 +527,7 @@
 
 ## CVPR-2025
 
-* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 30 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
+* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 30 | 🐛 7 | 🌐 Python | 📅 2026-01-26]
 
 * Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33151)]
 
@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -801,7 +801,7 @@
 
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18850)] \[[arxiv](https://arxiv.org/abs/2305.19306)] \[[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] \[[code](https://github.com/edisonleeeee/spikegcl) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08] \[[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
-* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
+* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
 
 * EventRPG: Event Data Augmentation with Relevance Propagation Guidance \[[paper](https://arxiv.org/abs/2403.09274)] \[[code](https://github.com/myuansun/EventRPG) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-01-09]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1255,7 +1255,7 @@
 
 ## NeurIPS-2021
 
-* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 198 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 199 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
