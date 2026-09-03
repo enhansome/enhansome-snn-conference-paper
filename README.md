@@ -527,7 +527,7 @@
 
 ## CVPR-2025
 
-* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 30 | 🐛 7 | 🌐 Python | 📅 2026-01-26]
+* USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/34321)] \[[arxiv](https://arxiv.org/abs/2411.10504v1)] \[[paper with code](https://paperswithcode.com/paper/usp-gaussian-unifying-spike-based-image)] \[[code](https://github.com/chenkang455/usp-gaussian) ⭐ 30 | 🐛 8 | 🌐 Python | 📅 2026-01-26]
 
 * Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer \[[paper](https://cvpr.thecvf.com/virtual/2025/poster/33151)]
 
@@ -801,7 +801,7 @@
 
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18850)] \[[arxiv](https://arxiv.org/abs/2305.19306)] \[[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] \[[code](https://github.com/edisonleeeee/spikegcl) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08] \[[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
-* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
+* LMUFormer: Low Complexity Yet Powerful Spiking Model With Legendre Memory Units \[[paper](https://iclr.cc/virtual/2024/poster/17828)] \[[arxiv](https://arxiv.org/abs/2402.04882)] \[[paper with code](https://paperswithcode.com/paper/lmuformer-low-complexity-yet-powerful-spiking)] \[[code](https://github.com/zeyuliu1037/lmuformer) ⭐ 14 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-09-20] \[[openreview](https://openreview.net/forum?id=oEF7qExD9F)]
 
 * EventRPG: Event Data Augmentation with Relevance Propagation Guidance \[[paper](https://arxiv.org/abs/2403.09274)] \[[code](https://github.com/myuansun/EventRPG) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-01-09]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
