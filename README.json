@@ -1704,7 +1704,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:35:07.082Z",
+    "last_updated": "2026-09-05T12:47:16.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
