@@ -716,7 +716,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 648,
+                "stars": 647,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1177,7 +1177,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 46,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 4,
                 "owner": "fangwei123456",
                 "repo": "Parallel-Spiking-Neuron",
-                "stars": 56,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2168,7 +2168,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 648,
+                "stars": 647,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3088,7 +3088,7 @@
                 "open_issues": 1,
                 "owner": "ksouvik52",
                 "repo": "hiresnn2021",
-                "stars": 14,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:47:16.602Z",
+    "last_updated": "2026-09-06T12:55:11.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 466,
+      "stars": 468,
       "topics": [
         "awesome",
         "awesome-list",

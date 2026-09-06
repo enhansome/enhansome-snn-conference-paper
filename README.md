@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 466 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 468 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -797,7 +797,7 @@
 
 * Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings \[[paper](https://iclr.cc/virtual/2024/poster/19447)] \[[arxiv](https://arxiv.org/abs/2306.17670)] \[[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] \[[code](https://github.com/thvnvtos/snn-delays) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-04-24] \[[openreview](https://openreview.net/forum?id=4r2ybzJnmN)]
 
-* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18815)] \[[arxiv](https://arxiv.org/abs/2402.11984)] \[[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] \[[code](https://github.com/pkuxmq/hlop-snn) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-02-20] \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
+* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18815)] \[[arxiv](https://arxiv.org/abs/2402.11984)] \[[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] \[[code](https://github.com/pkuxmq/hlop-snn) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2024-02-20] \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
 
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18850)] \[[arxiv](https://arxiv.org/abs/2305.19306)] \[[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] \[[code](https://github.com/edisonleeeee/spikegcl) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08] \[[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
@@ -931,7 +931,7 @@
 
 * Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 317 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
-* Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
+* Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
 * Spiking PointNet: Spiking Neural Networks for Point Clouds \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8296d5800a8e68e58ad0472b393be80e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2310.06232)] \[[paper with code](https://paperswithcode.com/paper/spiking-pointnet-spiking-neural-networks-for)] \[[code](https://github.com/dayongren/spiking-pointnet) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2023-10-09] \[[openreview](https://openreview.net/forum?id=Ev2XuqvJCy)]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 648 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1289,7 +1289,7 @@
 
 * Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2007.05785)] \[[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
 
-* HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2110.11417)] \[[paper with code](https://paperswithcode.com/paper/hire-snn-harnessing-the-inherent-robustness-1)] \[[code](https://github.com/ksouvik52/hiresnn2021) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2022-05-13]
+* HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2110.11417)] \[[paper with code](https://paperswithcode.com/paper/hire-snn-harnessing-the-inherent-robustness-1)] \[[code](https://github.com/ksouvik52/hiresnn2021) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2022-05-13]
 
 * DCT-SNN: Using DCT To Distribute Spatial Information Over Time for Low-Latency Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Garg_DCT-SNN_Using_DCT_To_Distribute_Spatial_Information_Over_Time_for_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2010.01795)] \[[paper with code](https://paperswithcode.com/paper/dct-snn-using-dct-to-distribute-spatial)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
