@@ -509,7 +509,7 @@
                 "open_issues": 0,
                 "owner": "shen-aoyu",
                 "repo": "CREST",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1322,7 +1322,7 @@
                 "open_issues": 10,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 255,
+                "stars": 257,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -2016,7 +2016,7 @@
                 "open_issues": 0,
                 "owner": "MingLunHan",
                 "repo": "CIF-PyTorch",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "alignment",
                   "asr",
@@ -2261,7 +2261,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:55:11.970Z",
+    "last_updated": "2026-09-07T15:06:02.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

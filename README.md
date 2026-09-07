@@ -577,7 +577,7 @@
 
 * Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2311.14265v2)] \[[paper with code](https://paperswithcode.com/paper/bursting-spikes-efficient-and-high)] \[[code](https://github.com/bic-l/burst-ann2snn) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-07-06]
 
-* CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics \[[arxiv](https://arxiv.org/abs/2412.12525v3)] \[[paper with code](https://paperswithcode.com/paper/crest-an-efficient-conjointly-trained-spike)] \[[code](https://github.com/shen-aoyu/CREST) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-02-10]
+* CREST: An Efficient Conjointly-trained Spike-driven Framework for Event-based Object Detection Exploiting Spatiotemporal Dynamics \[[arxiv](https://arxiv.org/abs/2412.12525v3)] \[[paper with code](https://paperswithcode.com/paper/crest-an-efficient-conjointly-trained-spike)] \[[code](https://github.com/shen-aoyu/CREST) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-02-10]
 
 * Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism \[[arxiv](https://arxiv.org/abs/2502.14344v1)] \[[paper with code](https://paperswithcode.com/paper/towards-accurate-binary-spiking-neural)] \[[code](https://github.com/hamingsi/AGMM-SNN)]
 
@@ -841,7 +841,7 @@
 
 ## ECCV-2024
 
-* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 255 | 🐛 10 | 🌐 Python | 📅 2025-06-30]
+* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 257 | 🐛 10 | 🌐 Python | 📅 2025-06-30]
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
@@ -981,7 +981,7 @@
 
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26034)] \[[arxiv](https://arxiv.org/abs/2208.10364)] \[[paper with code](https://paperswithcode.com/paper/scaling-up-dynamic-graph-representation)] \[[code](https://github.com/edisonleeeee/spikenet) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
 
-* Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] \[[arxiv](https://arxiv.org/abs/2302.01194)] \[[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] \[[code](https://github.com/MingLunHan/CIF-PyTorch) ⭐ 78 | 🐛 0 | 🌐 Python | 📅 2026-07-14]
+* Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] \[[arxiv](https://arxiv.org/abs/2302.01194)] \[[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] \[[code](https://github.com/MingLunHan/CIF-PyTorch) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-07-14]
 
 * Exploring Temporal Information Dynamics in Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26002)] \[[arxiv](https://arxiv.org/abs/2211.14406)] \[[paper with code](https://paperswithcode.com/paper/exploring-temporal-information-dynamics-in)] \[[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2022-11-25]
 
@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,419 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
