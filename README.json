@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "Auroral703",
                 "repo": "PerTouch",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -768,7 +768,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-08T14:29:53Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "SeqSNN",
                 "stars": 92,
@@ -2261,7 +2261,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4419,
+                "stars": 4420,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3405,7 +3405,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:41:13.384Z",
+    "last_updated": "2026-09-09T13:46:10.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

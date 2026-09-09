@@ -185,7 +185,7 @@
 
 ## AAAI-2026
 
-* Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
+* Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
 
 * SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
 
@@ -717,7 +717,7 @@
 
 ## ICML-2024
 
-* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 92 | 🐛 12 | 🌐 Python | 📅 2026-02-08]
+* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 92 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
 
 * SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN \[[paper](https://openreview.net/attachment?id=NeotatlYOL\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2406.03470v1)] \[[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for#code)] \[[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2024-12-04]
 
@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,419 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
