@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 649 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -929,7 +929,7 @@
 
 ## NeurIPS-2023
 
-* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 317 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
+* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 318 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
 * Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 647 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 649 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

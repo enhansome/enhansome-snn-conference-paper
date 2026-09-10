@@ -716,7 +716,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 647,
+                "stars": 649,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1704,7 +1704,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -2168,7 +2168,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 647,
+                "stars": 649,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:46:10.421Z",
+    "last_updated": "2026-09-10T13:40:17.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
