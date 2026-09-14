@@ -935,7 +935,7 @@
 
 * Spiking PointNet: Spiking Neural Networks for Point Clouds \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8296d5800a8e68e58ad0472b393be80e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2310.06232)] \[[paper with code](https://paperswithcode.com/paper/spiking-pointnet-spiking-neural-networks-for)] \[[code](https://github.com/dayongren/spiking-pointnet) ⭐ 39 | 🐛 2 | 🌐 Python | 📅 2023-10-09] \[[openreview](https://openreview.net/forum?id=Ev2XuqvJCy)]
 
-* Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)] \[[paper with code](https://paperswithcode.com/paper/neural-data-transformer-2-multi-context)] \[[code](https://github.com/joel99/context_general_bci) ⭐ 35 | 🐛 2 | 🌐 Python | 📅 2025-07-02] \[[openreview](https://openreview.net/forum?id=CBBtMnlTGq)]
+* Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/fe51de4e7baf52e743b679e3bdba7905-Abstract-Conference.html)] \[[paper with code](https://paperswithcode.com/paper/neural-data-transformer-2-multi-context)] \[[code](https://github.com/joel99/context_general_bci) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2025-07-02] \[[openreview](https://openreview.net/forum?id=CBBtMnlTGq)]
 
 * SEENN: Towards Temporal Spiking Early Exit Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c801e68207da477bbc44182b9fac1129-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.01230)] \[[paper with code](https://paperswithcode.com/paper/seenn-towards-temporal-spiking-early-exit-1)] \[[code](https://github.com/intelligent-computing-lab-yale/seenn) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2024-11-18] \[[openreview](https://openreview.net/forum?id=mbaN0Y0QTw)]
 
@@ -1013,7 +1013,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 413 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 414 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1287,7 +1287,7 @@
 
 ## ICCV-2021
 
-* Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2007.05785)] \[[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
+* Incorporating Learnable Membrane Time Constant To Enhance Learning of Spiking Neural Networks \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Fang_Incorporating_Learnable_Membrane_Time_Constant_To_Enhance_Learning_of_Spiking_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2007.05785)] \[[paper with code](https://paperswithcode.com/paper/leaky-integrate-and-fire-spiking-neuron-with)] \[[code](https://github.com/fangwei123456/Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron) ⭐ 125 | 🐛 2 | 🌐 Python | 📅 2022-08-09]
 
 * HIRE-SNN: Harnessing the Inherent Robustness of Energy-Efficient Deep Spiking Neural Networks by Training With Crafted Input Noise \[[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Kundu_HIRE-SNN_Harnessing_the_Inherent_Robustness_of_Energy-Efficient_Deep_Spiking_Neural_ICCV_2021_paper.html)] \[[arxiv](https://arxiv.org/abs/2110.11417)] \[[paper with code](https://paperswithcode.com/paper/hire-snn-harnessing-the-inherent-robustness-1)] \[[code](https://github.com/ksouvik52/hiresnn2021) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2022-05-13]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

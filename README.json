@@ -1773,7 +1773,7 @@
                 "open_issues": 2,
                 "owner": "joel99",
                 "repo": "context_general_bci",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2119,7 +2119,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3062,7 +3062,7 @@
                 "open_issues": 2,
                 "owner": "fangwei123456",
                 "repo": "Parametric-Leaky-Integrate-and-Fire-Spiking-Neuron",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:50:01.632Z",
+    "last_updated": "2026-09-14T15:55:25.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
