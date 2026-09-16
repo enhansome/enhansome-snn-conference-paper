@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 468 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 467 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,422 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
