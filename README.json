@@ -63,7 +63,7 @@
                 "open_issues": 0,
                 "owner": "junjianli106",
                 "repo": "MiCo",
-                "stars": 10,
+                "stars": 11,
                 "topics": [
                   "computational-pathology",
                   "histology-images",
@@ -716,7 +716,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1396,7 +1396,7 @@
                 "open_issues": 1,
                 "owner": "Intelligent-Computing-Research-Group",
                 "repo": "BKDSNN",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2168,7 +2168,7 @@
                 "open_issues": 30,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 649,
+                "stars": 650,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2261,7 +2261,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4422,
+                "stars": 4421,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:14:23.381Z",
+    "last_updated": "2026-09-17T14:19:42.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
