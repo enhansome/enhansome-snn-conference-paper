@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 467 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 468 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -193,7 +193,7 @@
 
 * I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] \[[code](https://github.com/Ruichen0424/I2E) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 
-* HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] \[[code](https://github.com/JiangshuaiXu/HLML_SNN) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-12-03]
+* HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] \[[code](https://github.com/JiangshuaiXu/HLML_SNN) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-03]
 
 * LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] \[[code](https://github.com/hacilab/P3HF) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-12-07]
 
@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 650 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 651 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -847,7 +847,7 @@
 
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
-* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
+* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 
 * Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/1172)]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 650 | 🐛 30 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 651 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
