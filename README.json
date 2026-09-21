@@ -401,7 +401,7 @@
                 "open_issues": 3,
                 "owner": "BICLab",
                 "repo": "Spike2Former",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1704,7 +1704,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -2261,7 +2261,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4419,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:36:38.408Z",
+    "last_updated": "2026-09-21T15:56:31.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

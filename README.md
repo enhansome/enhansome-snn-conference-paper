@@ -567,7 +567,7 @@
 
 * FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2501.14744v2)] \[[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] \[[code](https://github.com/yukairong/fsta-snn) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 
-* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2026-01-14]
+* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-01-14]
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
@@ -929,7 +929,7 @@
 
 ## NeurIPS-2023
 
-* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 318 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
+* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 319 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
 * Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 55 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,419 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
