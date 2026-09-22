@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -1294,7 +1294,7 @@
                 "open_issues": 6,
                 "owner": "yimeng-fan",
                 "repo": "SFOD",
-                "stars": 41,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 4,
                 "owner": "fangwei123456",
                 "repo": "Parallel-Spiking-Neuron",
-                "stars": 55,
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 652,
+                "stars": 653,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2199,7 +2199,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-05-20T01:48:40Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "BICLab",
                 "repo": "Attention-SNN",
                 "stars": 88,
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:56:31.732Z",
+    "last_updated": "2026-09-22T14:05:07.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
