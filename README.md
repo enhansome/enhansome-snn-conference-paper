@@ -983,7 +983,7 @@
 
 * Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] \[[arxiv](https://arxiv.org/abs/2302.01194)] \[[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] \[[code](https://github.com/MingLunHan/CIF-PyTorch) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-07-14]
 
-* Exploring Temporal Information Dynamics in Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26002)] \[[arxiv](https://arxiv.org/abs/2211.14406)] \[[paper with code](https://paperswithcode.com/paper/exploring-temporal-information-dynamics-in)] \[[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2022-11-25]
+* Exploring Temporal Information Dynamics in Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26002)] \[[arxiv](https://arxiv.org/abs/2211.14406)] \[[paper with code](https://paperswithcode.com/paper/exploring-temporal-information-dynamics-in)] \[[code](https://github.com/intelligent-computing-lab-yale/exploring-temporal-information-dynamics-in-spiking-neural-networks) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2022-11-25]
 
 * Reducing ANN-SNN Conversion Error through Residual Membrane Potential \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25071)] \[[arxiv](https://arxiv.org/abs/2302.02091)] \[[paper with code](https://paperswithcode.com/paper/reducing-ann-snn-conversion-error-through)] \[[code](https://github.com/hzc1208/ANN2SNN_SRP) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2022-11-28]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
