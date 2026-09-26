@@ -1396,7 +1396,7 @@
                 "open_issues": 1,
                 "owner": "Intelligent-Computing-Research-Group",
                 "repo": "BKDSNN",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2846,7 +2846,7 @@
                 "open_issues": 13,
                 "owner": "loiccordone",
                 "repo": "object-detection-with-spiking-neural-networks",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:38:40.112Z",
+    "last_updated": "2026-09-26T13:46:39.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 468,
+      "stars": 469,
       "topics": [
         "awesome",
         "awesome-list",

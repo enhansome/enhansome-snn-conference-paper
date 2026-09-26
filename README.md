@@ -7,7 +7,7 @@
 
 ❤ Thanks so much @[Ruichen0424](https://github.com/Ruichen0424) for the collaboration!
 
-🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 468 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
+🚀 Github Repo: <https://github.com/AXYZdong/awesome-snn-conference-paper> ⭐ 469 | 🐛 1 | 🌐 HTML | 📅 2026-05-04
 
 📖 Online Reading: <https://axyzdong.github.io/awesome-snn-conference-paper>
 
@@ -847,7 +847,7 @@
 
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
-* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
+* BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 
 * Asynchronous Bioplausible Neuron for Spiking Neural Networks for Event-Based Vision \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/1172)]
 
@@ -1231,7 +1231,7 @@
 
 ## IJCNN-2022
 
-* Object Detection with Spiking Neural Networks on Automotive Event Data \[[paper](https://arxiv.org/abs/2205.04339)] \[[code](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) ⭐ 82 | 🐛 13 | 🌐 Python | 📅 2023-03-16]
+* Object Detection with Spiking Neural Networks on Automotive Event Data \[[paper](https://arxiv.org/abs/2205.04339)] \[[code](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2023-03-16]
 
 * Event-Driven Tactile Learning with Location Spiking Neurons \[[paper](https://arxiv.org/abs/2209.01080)] \[[code](https://github.com/pkang2017/tactilelocneurons) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-07-11]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
