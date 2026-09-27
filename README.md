@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,420 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1115,7 +1115,7 @@
 
 * Online Training Through Time for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04195)] \[[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] \[[code](https://github.com/pkuxmq/ottt-snn) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2023-12-08] \[[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
 
-* GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.13768)] \[[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] \[[code](https://github.com/ikarosy/gated-lif) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2023-02-18] \[[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
+* GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.13768)] \[[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] \[[code](https://github.com/ikarosy/gated-lif) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2023-02-18] \[[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
 * Training Spiking Neural Networks with Local Tandem Learning \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/523caec7832a47fb19b8471dbfeec471-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04532)] \[[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-with-local)] \[[code](https://github.com/aries231/local_tandem_learning_rule) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-10-07] \[[openreview](https://openreview.net/forum?id=nC8VC8gVGPo)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
