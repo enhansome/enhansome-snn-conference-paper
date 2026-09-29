@@ -187,7 +187,7 @@
 
 * Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
 
-* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
+* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2026-01-19]
 
 * Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
 
@@ -635,7 +635,7 @@
 
 ## NeurIPS-2024
 
-* QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
+* QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 149 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 
 * Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
@@ -751,9 +751,9 @@
 
 * Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] \[[arxiv](https://arxiv.org/abs/2308.06582)] \[[paper with code](https://paperswithcode.com/paper/gated-attention-coding-for-training-high)] \[[code](https://github.com/bollossom/GAC) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2024-05-31]
 
-* DeblurSR: Event-Based Motion Deblurring under the Spiking Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] \[[arxiv](https://arxiv.org/abs/2303.08977)] \[[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] \[[code](https://github.com/chensong1995/deblursr) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2024-11-08]
+* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
 
-* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
+* DeblurSR: Event-Based Motion Deblurring under the Spiking Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] \[[arxiv](https://arxiv.org/abs/2303.08977)] \[[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] \[[code](https://github.com/chensong1995/deblursr) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2024-11-08]
 
 * SpikingBERT: Distilling BERT to Train Spiking Language Models Using Implicit Differentiation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28975)] \[[arxiv](https://arxiv.org/abs/2308.10873)] \[[paper with code](https://paperswithcode.com/paper/spikingbert-distilling-bert-to-train-spiking)] \[[code](https://github.com/neurocomplab-psu/spikingbert) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2024-02-21]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

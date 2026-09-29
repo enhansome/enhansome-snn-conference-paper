@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "JackieWang9811",
                 "repo": "SCommander",
-                "stars": 14,
+                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -571,7 +571,7 @@
                 "open_issues": 8,
                 "owner": "zhouchenlin2096",
                 "repo": "QKFormer",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "3rd-generation-of-artificial-neural-networks",
                   "brain-inspired",
@@ -967,27 +967,6 @@
             },
             {
               "node_type": "item",
-              "title": "DeblurSR: Event-Based Motion Deblurring under the Spiking Representation [paper",
-              "description": "] [arxiv] [paper with code] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation (AAAI 2024)",
-                "homepage": null,
-                "id": 529980707,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-11-08T19:56:15Z",
-                "open_issues": 5,
-                "owner": "chensong1995",
-                "repo": "DeblurSR",
-                "stars": 30,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:56:32.014Z"
-            },
-            {
-              "node_type": "item",
               "title": "Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks [paper",
               "description": "] [arxiv] [paper with code] [code]",
               "children": [],
@@ -1002,6 +981,27 @@
                 "open_issues": 4,
                 "owner": "yfguo91",
                 "repo": "Ternary-Spike",
+                "stars": 31,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:56:32.014Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DeblurSR: Event-Based Motion Deblurring under the Spiking Representation [paper",
+              "description": "] [arxiv] [paper with code] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DeblurSR: Event-Based Motion Deblurring Under the Spiking Representation (AAAI 2024)",
+                "homepage": null,
+                "id": 529980707,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-11-08T19:56:15Z",
+                "open_issues": 5,
+                "owner": "chensong1995",
+                "repo": "DeblurSR",
                 "stars": 30,
                 "topics": []
               },
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:42:41.396Z",
+    "last_updated": "2026-09-29T15:58:23.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
