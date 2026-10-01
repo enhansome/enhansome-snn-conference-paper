@@ -841,7 +841,7 @@
 
 ## ECCV-2024
 
-* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 258 | 🐛 10 | 🌐 Python | 📅 2025-06-30]
+* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 259 | 🐛 10 | 🌐 Python | 📅 2025-06-30]
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
