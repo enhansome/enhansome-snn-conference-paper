@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,421 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,422 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1259,7 +1259,7 @@
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
-* Sparse Spiking Gradient Descent \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/61f2585b0ebcf1f532c4d1ec9a7d51aa-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2105.08810)] \[[paper with code](https://paperswithcode.com/paper/sparse-spiking-gradient-descent)] \[[code](https://github.com/npvoid/SparseSpikingBackprop) ⭐ 19 | 🐛 3 | 🌐 Python | 📅 2022-03-10] \[[openreview](https://openreview.net/forum?id=aLE2sEtMNXv)]
+* Sparse Spiking Gradient Descent \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/61f2585b0ebcf1f532c4d1ec9a7d51aa-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2105.08810)] \[[paper with code](https://paperswithcode.com/paper/sparse-spiking-gradient-descent)] \[[code](https://github.com/npvoid/SparseSpikingBackprop) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2022-03-10] \[[openreview](https://openreview.net/forum?id=aLE2sEtMNXv)]
 
 * Probabilistic Tensor Decomposition of Neural Population Spiking Activity \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/859b755563f548d008f936906a959c8f-Abstract.html)] \[[paper with code](https://paperswithcode.com/paper/probabilistic-tensor-decomposition-of-neural)] \[[code](https://github.com/hugosou/vbgcp) ⭐ 8 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-12-02] \[[openreview](https://openreview.net/forum?id=1bBF5Zq1YHz)]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
