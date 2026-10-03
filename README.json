@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Spikingformer: A Key Foundation Model for Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "Auroral703/PerTouch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition [paper",
-              "description": "] [code]",
+              "description": "JackieWang9811/SCommander",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,7 +50,7 @@
             {
               "node_type": "item",
               "title": "Spiking Heterogeneous Graph Attention Networks [paper",
-              "description": "] [code]",
+              "description": "junjianli106/MiCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,7 +76,7 @@
             {
               "node_type": "item",
               "title": "I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "Ruichen0424/I2E",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -106,7 +106,7 @@
             {
               "node_type": "item",
               "title": "HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning [paper",
-              "description": "] [code]",
+              "description": "JiangshuaiXu/HLML_SNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models [paper",
-              "description": "] [code]",
+              "description": "hacilab/P3HF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -148,7 +148,7 @@
             {
               "node_type": "item",
               "title": "GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization [paper",
-              "description": "] [code]",
+              "description": "Yasoz/PLGF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -169,7 +169,7 @@
             {
               "node_type": "item",
               "title": "Pseudo-Spiking Neurons: A Noise-Based Training Framework for Heterogeneous-Latency Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "deng-ai-lab/PseudoSNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,7 +190,7 @@
             {
               "node_type": "item",
               "title": "S³: Spiking Neurons as an Isolating Segmenter for Brain Signal Decoding [paper",
-              "description": "] [code]",
+              "description": "MChen808/S3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Weight Adaptation in Spiking Neural Networks Inspired by Biological Homeostasis [paper",
-              "description": "] [code]",
+              "description": "Zyunduo/AAAI_2026_DWAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,7 +232,7 @@
             {
               "node_type": "item",
               "title": "DS-ATGO: Dual-Stage Synergistic Learning via Forward Adaptive Threshold and Backward Gradient Optimization for Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "jqjiang1999/DS-ATGO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1232,7 +1232,7 @@
             {
               "node_type": "item",
               "title": "EventRPG: Event Data Augmentation with Relevance Propagation Guidance [paper",
-              "description": "] [code]",
+              "description": "myuansun/EventRPG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1260,7 +1260,7 @@
             {
               "node_type": "item",
               "title": "SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "xyshi2000/SpikingResformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1281,7 +1281,7 @@
             {
               "node_type": "item",
               "title": "SFOD: Spiking Fusion Object Detector [paper",
-              "description": "] [code]",
+              "description": "yimeng-fan/SFOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1411,7 +1411,7 @@
             {
               "node_type": "item",
               "title": "Optimal ANN-SNN Conversion with Group Neurons [paper",
-              "description": "] [code]",
+              "description": "Lyu6PosHao/ANN2SNN_GN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2189,7 +2189,7 @@
             {
               "node_type": "item",
               "title": "Attention Spiking Neural Networks [paper",
-              "description": "] [code]",
+              "description": "BICLab/Attention-SNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2214,7 +2214,7 @@
             {
               "node_type": "item",
               "title": "Fast-SNN: Fast Spiking Neural Network by Converting Quantized ANN [paper",
-              "description": "] [code]",
+              "description": "zju-bmi-lab/Fast-SNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2574,7 +2574,7 @@
             {
               "node_type": "item",
               "title": "Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation [paper",
-              "description": "] [code]",
+              "description": "ruizhao26/STE-FlowNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2693,7 +2693,7 @@
             {
               "node_type": "item",
               "title": "Signed Neuron with Memory: Towards Simple, Accurate and High-Efficient ANN-SNN Conversion [paper",
-              "description": "] [code]",
+              "description": "ppppps/ANN2SNNConversion_SNM_NeuronNorm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2833,7 +2833,7 @@
             {
               "node_type": "item",
               "title": "Object Detection with Spiking Neural Networks on Automotive Event Data [paper",
-              "description": "] [code]",
+              "description": "loiccordone/object-detection-with-spiking-neural-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2854,7 +2854,7 @@
             {
               "node_type": "item",
               "title": "Event-Driven Tactile Learning with Location Spiking Neurons [paper",
-              "description": "] [code]",
+              "description": "pkang2017/TactileLocNeurons",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2875,7 +2875,7 @@
             {
               "node_type": "item",
               "title": "Spiking Approximations of the MaxPooling Operation in Deep SNNs [paper",
-              "description": "] [code]",
+              "description": "R-Gaurav/SpikingMaxPooling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:52:18.338Z",
+    "last_updated": "2026-10-03T05:07:39.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
