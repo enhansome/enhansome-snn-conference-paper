@@ -463,7 +463,7 @@
                 "id": 957471861,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-04-12T19:17:09Z",
+                "last_commit": "2026-10-04T05:32:07Z",
                 "open_issues": 2,
                 "owner": "PeppaWu",
                 "repo": "SPT",
@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:21:31.456Z",
+    "last_updated": "2026-10-04T14:49:35.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
