@@ -573,7 +573,7 @@
 
 * Efficient 3D Recognition with Event-driven Spike Sparse Convolution \[[arxiv](https://arxiv.org/abs/2412.07360v1)] \[[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
 
-* Spiking Point Transformer for Point Cloud Classification \[[arxiv](https://arxiv.org/abs/2502.15811v1)] \[[paper with code](https://paperswithcode.com/paper/spiking-point-transformer-for-point-cloud)] \[[code](https://github.com/PeppaWu/SPT) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-10-04]
+* Spiking Point Transformer for Point Cloud Classification \[[arxiv](https://arxiv.org/abs/2502.15811v1)] \[[paper with code](https://paperswithcode.com/paper/spiking-point-transformer-for-point-cloud)] \[[code](https://github.com/PeppaWu/SPT) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-10-05]
 
 * Adaptive Calibration: A Unified Conversion Framework of Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2311.14265v2)] \[[paper with code](https://paperswithcode.com/paper/bursting-spikes-efficient-and-high)] \[[code](https://github.com/bic-l/burst-ann2snn) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-07-06]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
