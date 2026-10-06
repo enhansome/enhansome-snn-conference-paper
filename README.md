@@ -1083,7 +1083,7 @@
 
 * Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,422 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
 
-* Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 55 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
+* Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
 * Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2205.00459)] \[[paper with code](https://paperswithcode.com/paper/training-high-performance-low-latency-spiking)] \[[code](https://github.com/qymeng94/dsr) ⭐ 52 | 🐛 1 | 🌐 Python | 📅 2022-11-08]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
