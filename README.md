@@ -703,7 +703,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 657 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 658 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -717,7 +717,7 @@
 
 ## ICML-2024
 
-* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 93 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
+* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 94 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
 
 * SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN \[[paper](https://openreview.net/attachment?id=NeotatlYOL\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2406.03470v1)] \[[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for#code)] \[[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2024-12-04]
 
@@ -845,7 +845,7 @@
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
-* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
+* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
 * BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 
@@ -1023,7 +1023,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 657 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 658 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1081,7 +1081,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,422 | 🐛 94 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,421 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1231,7 +1231,7 @@
 
 ## IJCNN-2022
 
-* Object Detection with Spiking Neural Networks on Automotive Event Data \[[paper](https://arxiv.org/abs/2205.04339)] \[[code](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) ⭐ 83 | 🐛 13 | 🌐 Python | 📅 2023-03-16]
+* Object Detection with Spiking Neural Networks on Automotive Event Data \[[paper](https://arxiv.org/abs/2205.04339)] \[[code](https://github.com/loiccordone/object-detection-with-spiking-neural-networks) ⭐ 84 | 🐛 13 | 🌐 Python | 📅 2023-03-16]
 
 * Event-Driven Tactile Learning with Location Spiking Neurons \[[paper](https://arxiv.org/abs/2209.01080)] \[[code](https://github.com/pkang2017/tactilelocneurons) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-07-11]
 
@@ -1487,4 +1487,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

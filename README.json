@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -771,7 +771,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "SeqSNN",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1367,7 +1367,7 @@
                 "open_issues": 0,
                 "owner": "Windere",
                 "repo": "EAS-SNN",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "adaptive-learning",
                   "event-based-detection",
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 657,
+                "stars": 658,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2258,10 +2258,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-15T12:48:07Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4422,
+                "stars": 4421,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2846,7 +2846,7 @@
                 "open_issues": 13,
                 "owner": "loiccordone",
                 "repo": "object-detection-with-spiking-neural-networks",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:37:24.634Z",
+    "last_updated": "2026-10-08T16:36:11.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
