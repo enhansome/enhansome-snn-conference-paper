@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-19T02:45:59Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "JackieWang9811",
                 "repo": "SCommander",
                 "stars": 15,
@@ -397,8 +397,8 @@
                 "id": 901087718,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-01-14T07:27:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-09T14:08:22Z",
+                "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike2Former",
                 "stars": 44,
@@ -1927,6 +1927,27 @@
             },
             {
               "node_type": "item",
+              "title": "SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [paper",
+              "description": "] [arxiv] [paper with code] [code] [openreview]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "author's implementation for NeurIPS 23 paper 'SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning'",
+                "homepage": null,
+                "id": 734590010,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-01-21T16:47:53Z",
+                "open_issues": 0,
+                "owner": "dohyeoklee",
+                "repo": "SPQR",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:56:32.014Z"
+            },
+            {
+              "node_type": "item",
               "title": "Direct Training of SNN using Local Zeroth Order Method [paper",
               "description": "] [paper with code] [code] [openreview]",
               "children": [],
@@ -1945,27 +1966,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning [paper",
-              "description": "] [arxiv] [paper with code] [code] [openreview]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "author's implementation for NeurIPS 23 paper 'SPQR: Controlling Q-ensemble Independence with Spiked Random Model for Reinforcement Learning'",
-                "homepage": null,
-                "id": 734590010,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-01-21T16:47:53Z",
-                "open_issues": 0,
-                "owner": "dohyeoklee",
-                "repo": "SPQR",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:56:32.014Z"
             }
           ],
           "description": null,
@@ -1974,32 +1974,6 @@
         },
         {
           "children": [
-            {
-              "node_type": "item",
-              "title": "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks [paper",
-              "description": "] [arxiv] [paper with code] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[AAAI 2023] Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks",
-                "homepage": "https://arxiv.org/abs/2208.10364",
-                "id": 529256038,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-09-27T09:42:24Z",
-                "open_issues": 1,
-                "owner": "EdisonLeeeee",
-                "repo": "SpikeNet",
-                "stars": 80,
-                "topics": [
-                  "dynamic-graphs",
-                  "graph-neural-networks",
-                  "spiking-neural-networks",
-                  "temporal-graph-networks"
-                ]
-              },
-              "first_seen": "2026-08-28T20:56:32.014Z"
-            },
             {
               "node_type": "item",
               "title": "Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition [paper",
@@ -2029,6 +2003,32 @@
                   "speech",
                   "speech-recognition",
                   "speech-to-text"
+                ]
+              },
+              "first_seen": "2026-08-28T20:56:32.014Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks [paper",
+              "description": "] [arxiv] [paper with code] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[AAAI 2023] Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks",
+                "homepage": "https://arxiv.org/abs/2208.10364",
+                "id": 529256038,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-09-27T09:42:24Z",
+                "open_issues": 1,
+                "owner": "EdisonLeeeee",
+                "repo": "SpikeNet",
+                "stars": 79,
+                "topics": [
+                  "dynamic-graphs",
+                  "graph-neural-networks",
+                  "spiking-neural-networks",
+                  "temporal-graph-networks"
                 ]
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2261,7 +2261,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4421,
+                "stars": 4422,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:36:11.214Z",
+    "last_updated": "2026-10-09T16:18:53.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3784,7 +3784,7 @@
       "id": 618259843,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-05-04T00:51:14Z",
+      "last_commit": "2026-10-09T13:26:59Z",
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
@@ -3801,7 +3801,7 @@
         "spiking-neural-networks"
       ]
     },
-    "original_repository_sha": "60a74e33cc64e5389243201b18e25f01b3193bf0",
+    "original_repository_sha": "8b3997cb121685ef085cfc76e08bd36060d4b53f",
     "enhanced_repository": "enhansome/enhansome-snn-conference-paper",
     "enhanced_repository_description": null,
     "title": "Awesome SNN Conference Paper with stars"
