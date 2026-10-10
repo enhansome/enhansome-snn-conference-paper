@@ -397,8 +397,8 @@
                 "id": 901087718,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-09T14:08:22Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-10T01:08:00Z",
+                "open_issues": 3,
                 "owner": "BICLab",
                 "repo": "Spike2Former",
                 "stars": 44,
@@ -1270,7 +1270,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-19T09:17:23Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "xyshi2000",
                 "repo": "SpikingResformer",
                 "stars": 78,
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:18:53.614Z",
+    "last_updated": "2026-10-10T15:27:06.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

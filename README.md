@@ -745,7 +745,7 @@
 
 * FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2501.14744v2)] \[[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] \[[code](https://github.com/yukairong/fsta-snn) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 
-* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 4 | 🌐 Python | 📅 2026-10-09]
+* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-10-10]
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
@@ -1011,7 +1011,7 @@
 
 ## CVPR-2024
 
-* SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks \[[paper](https://arxiv.org/pdf/2403.14302.pdf)] \[[code](https://github.com/xyshi2000/SpikingResformer) ⭐ 78 | 🐛 3 | 🌐 Python | 📅 2024-12-19]
+* SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks \[[paper](https://arxiv.org/pdf/2403.14302.pdf)] \[[code](https://github.com/xyshi2000/SpikingResformer) ⭐ 78 | 🐛 4 | 🌐 Python | 📅 2024-12-19]
 
 * SFOD: Spiking Fusion Object Detector \[[paper](https://arxiv.org/abs/2403.15192)] \[[code](https://github.com/yimeng-fan/SFOD) ⭐ 40 | 🐛 6 | 🌐 Python | 📅 2024-03-11]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
