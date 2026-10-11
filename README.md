@@ -745,7 +745,7 @@
 
 * FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2501.14744v2)] \[[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] \[[code](https://github.com/yukairong/fsta-snn) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 
-* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 3 | 🌐 Python | 📅 2026-10-10]
+* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
@@ -881,7 +881,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 658 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 660 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -1201,7 +1201,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 658 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 660 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
