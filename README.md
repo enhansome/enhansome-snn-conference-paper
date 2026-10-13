@@ -881,7 +881,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 660 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 661 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -1157,7 +1157,7 @@
 
 ## AAAI-2023
 
-* Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] \[[arxiv](https://arxiv.org/abs/2302.01194)] \[[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] \[[code](https://github.com/MingLunHan/CIF-PyTorch) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2026-07-14]
+* Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25081)] \[[arxiv](https://arxiv.org/abs/2302.01194)] \[[paper with code](https://paperswithcode.com/paper/complex-dynamic-neurons-improved-spiking)] \[[code](https://github.com/MingLunHan/CIF-PyTorch) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2026-07-14]
 
 * Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26034)] \[[arxiv](https://arxiv.org/abs/2208.10364)] \[[paper with code](https://paperswithcode.com/paper/scaling-up-dynamic-graph-representation)] \[[code](https://github.com/edisonleeeee/spikenet) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2023-09-27]
 
@@ -1201,7 +1201,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 660 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 661 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
