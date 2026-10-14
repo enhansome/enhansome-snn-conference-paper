@@ -745,7 +745,7 @@
 
 * FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2501.14744v2)] \[[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] \[[code](https://github.com/yukairong/fsta-snn) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 
-* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
+* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
@@ -815,7 +815,7 @@
 
 * QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 149 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 
-* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 91 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
+* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 92 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
 * SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 
@@ -1021,7 +1021,7 @@
 
 * Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 259 | 🐛 10 | 🌐 Python | 📅 2025-06-30]
 
-* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
+* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
@@ -1053,7 +1053,7 @@
 
 ## TNNLS-2024
 
-* Advancing Spiking Neural Networks Toward Deep Residual Learning \[[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] \[[arxiv](https://arxiv.org/abs/2112.08954v3)] \[[paper with code](https://paperswithcode.com/paper/advancing-residual-learning-towards-powerful)] \[[code](https://github.com/ariande1/ms-resnet) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2025-04-03]
+* Advancing Spiking Neural Networks Toward Deep Residual Learning \[[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] \[[arxiv](https://arxiv.org/abs/2112.08954v3)] \[[paper with code](https://paperswithcode.com/paper/advancing-residual-learning-towards-powerful)] \[[code](https://github.com/ariande1/ms-resnet) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2025-04-03]
 
 * TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks \[[paper](https://ieeexplore.ieee.org/document/10496285)] \[[arxiv](https://arxiv.org/abs/2206.10177v3)] \[[paper with code](https://paperswithcode.com/paper/tcja-snn-temporal-channel-joint-attention-for)] \[[code](https://github.com/ridgerchu/TCJA) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2024-04-16]
 
@@ -1259,7 +1259,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,422 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,423 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1433,7 +1433,7 @@
 
 ## NeurIPS-2021
 
-* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 199 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 200 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
