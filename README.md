@@ -901,7 +901,7 @@
 
 * SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms \[[paper](https://openreview.net/attachment?id=4PB1RMsUy4\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2406.03287v1)] \[[paper with code](https://paperswithcode.com/paper/spikelm-towards-general-spike-driven-language#code)] \[[code](https://github.com/xingrun-xing/spikelm) ⭐ 47 | 🐛 8 | 🌐 Python | 📅 2024-07-09]
 
-* CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=yY6N89IlHa\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.04663v4)] \[[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire)] \[[code](https://github.com/huuyulong/complementary-lif) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2025-09-17]
+* CLIF: Complementary Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=yY6N89IlHa\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.04663v4)] \[[paper with code](https://paperswithcode.com/paper/clif-complementary-leaky-integrate-and-fire)] \[[code](https://github.com/huuyulong/complementary-lif) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2025-09-17]
 
 * Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning \[[paper](https://openreview.net/attachment?id=3FeYlKIPr3\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2405.16851v1)] \[[paper with code](https://paperswithcode.com/paper/temporal-spiking-neural-networks-with#code)] \[[code](https://github.com/pkuxmq/grsnn) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-06-01]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

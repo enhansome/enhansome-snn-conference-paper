@@ -834,7 +834,7 @@
                 "open_issues": 3,
                 "owner": "HuuYuLong",
                 "repo": "Complementary-LIF",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "neuromorphic-computing",
                   "neuron",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:33:18.772Z",
+    "last_updated": "2026-10-15T14:13:10.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
