@@ -389,7 +389,7 @@
 
 ## AAAI-2026
 
-* Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
+* Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
 
 * SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
 
@@ -745,7 +745,7 @@
 
 * FSTA-SNN:Frequency-based Spatial-Temporal Attention Module for Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2501.14744v2)] \[[paper with code](https://paperswithcode.com/paper/fsta-snn-frequency-based-spatial-temporal)] \[[code](https://github.com/yukairong/fsta-snn) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2025-02-17]
 
-* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 45 | 🐛 2 | 🌐 Python | 📅 2026-10-10]
+* Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
@@ -1259,7 +1259,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,424 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,425 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
