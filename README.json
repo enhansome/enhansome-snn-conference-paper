@@ -1480,7 +1480,7 @@
                 "open_issues": 2,
                 "owner": "Ariande1",
                 "repo": "MS-ResNet",
-                "stars": 65,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2119,7 +2119,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 415,
+                "stars": 416,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3116,7 +3116,7 @@
                 "open_issues": 6,
                 "owner": "yhhhli",
                 "repo": "SNN_Calibration",
-                "stars": 92,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:21:58.942Z",
+    "last_updated": "2026-10-21T14:31:45.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

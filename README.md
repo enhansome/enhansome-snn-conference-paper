@@ -1053,7 +1053,7 @@
 
 ## TNNLS-2024
 
-* Advancing Spiking Neural Networks Toward Deep Residual Learning \[[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] \[[arxiv](https://arxiv.org/abs/2112.08954v3)] \[[paper with code](https://paperswithcode.com/paper/advancing-residual-learning-towards-powerful)] \[[code](https://github.com/ariande1/ms-resnet) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2025-04-03]
+* Advancing Spiking Neural Networks Toward Deep Residual Learning \[[paper](https://ieeexplore.ieee.org/abstract/document/10428029)] \[[arxiv](https://arxiv.org/abs/2112.08954v3)] \[[paper with code](https://paperswithcode.com/paper/advancing-residual-learning-towards-powerful)] \[[code](https://github.com/ariande1/ms-resnet) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2025-04-03]
 
 * TCJA-SNN: Temporal-Channel Joint Attention for Spiking Neural Networks \[[paper](https://ieeexplore.ieee.org/document/10496285)] \[[arxiv](https://arxiv.org/abs/2206.10177v3)] \[[paper with code](https://paperswithcode.com/paper/tcja-snn-temporal-channel-joint-attention-for)] \[[code](https://github.com/ridgerchu/TCJA) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2024-04-16]
 
@@ -1191,7 +1191,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 415 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 416 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1477,7 +1477,7 @@
 
 ## ICML-2021
 
-* A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration \[[paper](https://proceedings.mlr.press/v139/li21d.html)] \[[arxiv](https://arxiv.org/abs/2106.06984)] \[[paper with code](https://paperswithcode.com/paper/a-free-lunch-from-ann-towards-efficient)] \[[code](https://github.com/yhhhli/SNN_Calibration) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2024-05-09]
+* A Free Lunch From ANN: Towards Efficient, Accurate Spiking Neural Networks Calibration \[[paper](https://proceedings.mlr.press/v139/li21d.html)] \[[arxiv](https://arxiv.org/abs/2106.06984)] \[[paper with code](https://paperswithcode.com/paper/a-free-lunch-from-ann-towards-efficient)] \[[code](https://github.com/yhhhli/SNN_Calibration) ⭐ 91 | 🐛 6 | 🌐 Python | 📅 2024-05-09]
 
 * A Differentiable Point Process with Its Application to Spiking Neural Networks \[[paper](https://proceedings.mlr.press/v139/kajino21a.html)] \[[arxiv](https://arxiv.org/abs/2106.00901)] \[[paper with code](https://paperswithcode.com/paper/a-differentiable-point-process-with-its)] \[[code](https://github.com/ibm-research-tokyo/diffsnn) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2021-06-08]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
