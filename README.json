@@ -1319,7 +1319,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2025-06-30T05:52:54Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
                 "stars": 259,
@@ -2119,7 +2119,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 416,
+                "stars": 417,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3405,7 +3405,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:31:45.206Z",
+    "last_updated": "2026-10-22T14:33:30.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
