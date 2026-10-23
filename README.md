@@ -749,7 +749,7 @@
 
 * UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2025-08-11]
 
-* Efficient 3D Recognition with Event-driven Spike Sparse Convolution \[[arxiv](https://arxiv.org/abs/2412.07360v1)] \[[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
+* Efficient 3D Recognition with Event-driven Spike Sparse Convolution \[[arxiv](https://arxiv.org/abs/2412.07360v1)] \[[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
 
 * Spiking Point Transformer for Point Cloud Classification \[[arxiv](https://arxiv.org/abs/2502.15811v1)] \[[paper with code](https://paperswithcode.com/paper/spiking-point-transformer-for-point-cloud)] \[[code](https://github.com/PeppaWu/SPT) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-10-05]
 
@@ -1023,7 +1023,7 @@
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
-* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
+* EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
 * BKDSNN: Enhancing the Performance of Learning-based Spiking Neural Networks Training with Blurred Knowledge Distillation \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2655)] \[[arxiv](https://arxiv.org/abs/2407.09083v2)] \[[paper with code](https://paperswithcode.com/paper/bkdsnn-enhancing-the-performance-of-learning)] \[[code](https://github.com/intelligent-computing-research-group/bkdsnn) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2024-11-22]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
