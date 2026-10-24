@@ -42,7 +42,7 @@
                 "open_issues": 3,
                 "owner": "JackieWang9811",
                 "repo": "SCommander",
-                "stars": 15,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -140,7 +140,7 @@
                 "open_issues": 0,
                 "owner": "hacilab",
                 "repo": "P3HF",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2922,7 +2922,7 @@
                 "open_issues": 12,
                 "owner": "fangwei123456",
                 "repo": "Spike-Element-Wise-ResNet",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:17:25.346Z",
+    "last_updated": "2026-10-24T13:23:29.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

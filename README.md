@@ -391,7 +391,7 @@
 
 * Spikingformer: A Key Foundation Model for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37207)] \[[code](https://github.com/Auroral703/PerTouch) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-02-04]
 
-* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 15 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
+* SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
 
 * Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
 
@@ -399,7 +399,7 @@
 
 * HLML-SNN：Fast Continual Learning in Spiking Neural Networks Achieved via Hebbian Learning-Driven Meta-Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39942)] \[[code](https://github.com/JiangshuaiXu/HLML_SNN) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-12-03]
 
-* LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] \[[code](https://github.com/hacilab/P3HF) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-12-07]
+* LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37151)] \[[code](https://github.com/hacilab/P3HF) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-12-07]
 
 * GT-SNT: A Linear-Time Transformer for Large-Scale Graphs via Spiking Node Tokenization \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38667)] \[[code](https://github.com/Yasoz/PLGF) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-19]
 
@@ -1433,7 +1433,7 @@
 
 ## NeurIPS-2021
 
-* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 200 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
+* Deep Residual Learning in Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/afe434653a898da20044041262b3ac74-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2102.04159)] \[[paper with code](https://paperswithcode.com/paper/spike-based-residual-blocks)] \[[code](https://github.com/fangwei123456/Spike-Element-Wise-ResNet) ⭐ 201 | 🐛 12 | 🌐 Python | 📅 2022-08-09]
 
 * Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/79a49b3e3762632813f9e35f4ba53d6c-Abstract.html)] \[[arxiv](https://arxiv.org/abs/2109.14247)] \[[paper with code](https://paperswithcode.com/paper/training-feedback-spiking-neural-networks-by)] \[[code](https://github.com/pkuxmq/ide-fsnn) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-10-24] \[[openreview](https://openreview.net/forum?id=f2Llmm_z5Sm)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
