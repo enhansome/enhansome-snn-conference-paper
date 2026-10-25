@@ -601,7 +601,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:23:29.387Z",
+    "last_updated": "2026-10-25T13:45:20.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
