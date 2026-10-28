@@ -815,7 +815,7 @@
 
 * QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 
-* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
+* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
 * SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 
@@ -881,7 +881,7 @@
 
 ## IJCAI-2024
 
-* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 665 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 666 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
@@ -1201,7 +1201,7 @@
 
 ## IJCAI-2023
 
-* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 665 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
+* Enhancing Efficient Continual Learning with Dynamic Structure Development of Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/334)] \[[arxiv](https://arxiv.org/abs/2308.04749)] \[[paper with code](https://paperswithcode.com/paper/enhancing-efficient-continual-learning-with)] \[[code](https://github.com/braincog-x/brain-cog) ⭐ 666 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
 * Learnable Surrogate Gradient for Direct Training Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2023/335)]
 
@@ -1291,7 +1291,7 @@
 
 ## NeurIPS-2022
 
-* Online Training Through Time for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04195)] \[[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] \[[code](https://github.com/pkuxmq/ottt-snn) ⭐ 71 | 🐛 4 | 🌐 Python | 📅 2023-12-08] \[[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
+* Online Training Through Time for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/82846e19e6d42ebfd4ace4361def29ae-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04195)] \[[paper with code](https://paperswithcode.com/paper/online-training-through-time-for-spiking)] \[[code](https://github.com/pkuxmq/ottt-snn) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2023-12-08] \[[openreview](https://openreview.net/forum?id=Siv3nHYHheI)]
 
 * GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.13768)] \[[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] \[[code](https://github.com/ikarosy/gated-lif) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2023-02-18] \[[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
@@ -1487,7 +1487,7 @@
 
 ## IJCAI-2021
 
-* Pruning of Deep Spiking Neural Networks through Gradient Rewiring \[[paper](https://www.ijcai.org/proceedings/2021/236)] \[[arxiv](https://arxiv.org/abs/2105.04916)] \[[paper with code](https://paperswithcode.com/paper/pruning-of-deep-spiking-neural-networks)] \[[code](https://github.com/Yanqi-Chen/Gradient-Rewiring) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2021-08-18]
+* Pruning of Deep Spiking Neural Networks through Gradient Rewiring \[[paper](https://www.ijcai.org/proceedings/2021/236)] \[[arxiv](https://arxiv.org/abs/2105.04916)] \[[paper with code](https://paperswithcode.com/paper/pruning-of-deep-spiking-neural-networks)] \[[code](https://github.com/Yanqi-Chen/Gradient-Rewiring) ⭐ 33 | 🐛 2 | 🌐 Python | 📅 2021-08-18]
 
 * Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks \[[paper](https://www.ijcai.org/proceedings/2021/321)] \[[arxiv](https://arxiv.org/abs/2105.11654)] \[[paper with code](https://paperswithcode.com/paper/optimal-ann-snn-conversion-for-fast-and)] \[[code](https://github.com/DingJianhao/OptSNNConvertion-RNL-RIL) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-10-20]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

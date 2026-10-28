@@ -601,7 +601,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2454,7 +2454,7 @@
                 "open_issues": 4,
                 "owner": "pkuxmq",
                 "repo": "OTTT-SNN",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3168,7 +3168,7 @@
                 "open_issues": 2,
                 "owner": "Yanqi-Chen",
                 "repo": "Gradient-Rewiring",
-                "stars": 32,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3405,7 +3405,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:25:04.350Z",
+    "last_updated": "2026-10-28T16:08:41.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
