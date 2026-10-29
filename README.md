@@ -747,7 +747,7 @@
 
 * Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation \[[arxiv](https://arxiv.org/abs/2412.14587v1)] \[[paper with code](https://paperswithcode.com/paper/spike2former-efficient-spiking-transformer)] \[[code](https://github.com/biclab/spike2former) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
-* UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 33 | 🐛 4 | 🌐 Python | 📅 2026-10-27]
+* UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks \[[arxiv](https://arxiv.org/abs/2503.12905v1)] \[[paper with code](https://paperswithcode.com/paper/ucf-crime-dvs-a-novel-event-based-dataset-for)] \[[code](https://github.com/YBQian-Roy/UCF-Crime-DVS) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-10-27]
 
 * Efficient 3D Recognition with Event-driven Spike Sparse Convolution \[[arxiv](https://arxiv.org/abs/2412.07360v1)] \[[paper with code](https://paperswithcode.com/paper/efficient-3d-recognition-with-event-driven)] \[[code](https://github.com/bollossom/e-3dsnn) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2025-07-07]
 
@@ -815,7 +815,7 @@
 
 * QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 
-* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
+* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 95 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
 * SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 
@@ -895,7 +895,7 @@
 
 ## ICML-2024
 
-* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 94 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
+* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks \[[paper](https://openreview.net/attachment?id=SkI6u81AkI\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2402.01533v2)] \[[paper with code](https://paperswithcode.com/paper/efficient-and-effective-time-series#code)] \[[code](https://github.com/microsoft/seqsnn) ⭐ 95 | 🐛 13 | 🌐 Python | 📅 2026-02-08]
 
 * SpikeZIP-TF: Conversion is All You Need for Transformer-based SNN \[[paper](https://openreview.net/attachment?id=NeotatlYOL\&name=pdf)] \[[arxiv](https://arxiv.org/abs/2406.03470v1)] \[[paper with code](https://paperswithcode.com/paper/spikezip-tf-conversion-is-all-you-need-for#code)] \[[code](https://github.com/Intelligent-Computing-Research-Group/SpikeZIP-TF) ⭐ 51 | 🐛 3 | 🌐 Python | 📅 2024-12-04]
 
@@ -1019,7 +1019,7 @@
 
 ## ECCV-2024
 
-* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 260 | 🐛 11 | 🌐 Python | 📅 2025-06-30]
+* Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 261 | 🐛 11 | 🌐 Python | 📅 2025-06-30]
 
 * Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._

@@ -422,7 +422,7 @@
                 "open_issues": 4,
                 "owner": "YBQian-Roy",
                 "repo": "UCF-Crime-DVS",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -601,7 +601,7 @@
                 "open_issues": 4,
                 "owner": "ridgerchu",
                 "repo": "SAD",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -771,7 +771,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "SeqSNN",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1322,7 +1322,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:08:41.842Z",
+    "last_updated": "2026-10-29T16:14:37.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
