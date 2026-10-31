@@ -815,7 +815,7 @@
 
 * QKFormer: Hierarchical Spiking Transformer using Q-K Attention \[[paper](https://nips.cc/virtual/2024/poster/96252)] \[[arxiv](https://arxiv.org/abs/2403.16552v2)] \[[paper with code](https://paperswithcode.com/paper/qkformer-hierarchical-spiking-transformer)] \[[code](https://github.com/zhouchenlin2096/qkformer) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2026-05-25]
 
-* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 95 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
+* Autonomous Driving with Spiking Neural Networks \[[paper](https://nips.cc/virtual/2024/poster/96329)] \[[arxiv](https://arxiv.org/abs/2405.19687v2)] \[[paper with code](https://paperswithcode.com/paper/autonomous-driving-with-spiking-neural)] \[[code](https://github.com/ridgerchu/sad) ⭐ 96 | 🐛 4 | 🌐 Python | 📅 2025-01-13]
 
 * SpikeReveal: Unlocking Temporal Sequences from Real Blurry Inputs with Spike Streams \[[paper](https://nips.cc/virtual/2024/poster/96319)] \[[arxiv](https://arxiv.org/abs/2403.09486v5)] \[[paper with code](https://paperswithcode.com/paper/spikereveal-unlocking-temporal-sequences-from)] \[[code](https://github.com/chenkang455/s-sdm) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-02-21]
 
@@ -1191,7 +1191,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 418 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 419 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
