@@ -1177,7 +1177,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 45,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2261,7 +2261,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4426,
+                "stars": 4427,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:20:49.493Z",
+    "last_updated": "2026-11-05T17:28:23.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",

@@ -975,7 +975,7 @@
 
 * Learning Delays in Spiking Neural Networks using Dilated Convolutions with Learnable Spacings \[[paper](https://iclr.cc/virtual/2024/poster/19447)] \[[arxiv](https://arxiv.org/abs/2306.17670)] \[[paper with code](https://paperswithcode.com/paper/learning-delays-in-spiking-neural-networks)] \[[code](https://github.com/thvnvtos/snn-delays) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-04-24] \[[openreview](https://openreview.net/forum?id=4r2ybzJnmN)]
 
-* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18815)] \[[arxiv](https://arxiv.org/abs/2402.11984)] \[[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] \[[code](https://github.com/pkuxmq/hlop-snn) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2024-02-20] \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
+* Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18815)] \[[arxiv](https://arxiv.org/abs/2402.11984)] \[[paper with code](https://paperswithcode.com/paper/hebbian-learning-based-orthogonal-projection)] \[[code](https://github.com/pkuxmq/hlop-snn) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-02-20] \[[openreview](https://openreview.net/forum?id=MeB86edZ1P)]
 
 * A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2024/poster/18850)] \[[arxiv](https://arxiv.org/abs/2305.19306)] \[[paper with code](https://paperswithcode.com/paper/a-graph-is-worth-1-bit-spikes-when-graph)] \[[code](https://github.com/edisonleeeee/spikegcl) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2024-05-08] \[[openreview](https://openreview.net/forum?id=LnLySuf1vp)]
 
@@ -1259,7 +1259,7 @@
 
 ## CVPR-2022
 
-* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,426 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
+* Brain-Inspired Multilayer Perceptron With Spiking Neurons \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Brain-Inspired_Multilayer_Perceptron_With_Spiking_Neurons_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2203.14679)] \[[paper with code](https://paperswithcode.com/paper/brain-inspired-multilayer-perceptron-with)] \[[code](https://github.com/huawei-noah/Efficient-AI-Backbones) ⭐ 4,427 | 🐛 95 | 🌐 Python | 📅 2025-03-15]
 
 * Event-Based Video Reconstruction via Potential-Assisted Spiking Neural Network \[[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhu_Event-Based_Video_Reconstruction_via_Potential-Assisted_Spiking_Neural_Network_CVPR_2022_paper.html)] \[[arxiv](https://arxiv.org/abs/2201.10943)] \[[paper with code](https://paperswithcode.com/paper/event-based-video-reconstruction-via)] \[[code](https://github.com/LinZhu111/EVSNN) ⭐ 54 | 🐛 7 | 🌐 Python | 📅 2022-04-03]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
