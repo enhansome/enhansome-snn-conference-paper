@@ -742,7 +742,7 @@
                 "last_commit": "2025-07-07T03:35:20Z",
                 "open_issues": 9,
                 "owner": "MingTian99",
-                "repo": "ESDNet",
+                "repo": "ESDNet-IJCAI2024",
                 "stars": 79,
                 "topics": []
               },
@@ -2261,7 +2261,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4428,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:44:24.559Z",
+    "last_updated": "2026-11-08T16:03:21.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
