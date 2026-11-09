@@ -1335,7 +1335,7 @@
 
 ## AAAI-2022
 
-* Fully Spiking Variational Autoencoder \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20665)] \[[arxiv](https://arxiv.org/abs/2110.00375)] \[[paper with code](https://paperswithcode.com/paper/fully-spiking-variational-autoencoder)] \[[code](https://github.com/kamata1729/FullySpikingVAE) ⭐ 75 | 🐛 2 | 🌐 Python | 📅 2023-05-03]
+* Fully Spiking Variational Autoencoder \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20665)] \[[arxiv](https://arxiv.org/abs/2110.00375)] \[[paper with code](https://paperswithcode.com/paper/fully-spiking-variational-autoencoder)] \[[code](https://github.com/kamata1729/FullySpikingVAE) ⭐ 76 | 🐛 2 | 🌐 Python | 📅 2023-05-03]
 
 * Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation \[[paper](https://arxiv.org/abs/2109.04871)] \[[code](https://github.com/ruizhao26/ste-flownet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2022-10-18]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
