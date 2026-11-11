@@ -1322,7 +1322,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:07:56.545Z",
+    "last_updated": "2026-11-11T17:15:26.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
