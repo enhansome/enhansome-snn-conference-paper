@@ -393,7 +393,7 @@
 
 * SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37194)] \[[code](https://github.com/JackieWang9811/SCommander) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2026-01-19]
 
-* Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-01-17]
+* Spiking Heterogeneous Graph Attention Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/39068)] \[[code](https://github.com/junjianli106/MiCo) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-14]
 
 * I2E: Real-Time Image-to-Event Conversion for High-Performance Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37179)] \[[code](https://github.com/Ruichen0424/I2E) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 
@@ -883,7 +883,7 @@
 
 * TIM: An Efficient Temporal Interaction Module for Spiking Transformer \[[arxiv](https://arxiv.org/abs/2401.11687v3)] \[[paper with code](https://paperswithcode.com/paper/tim-an-efficient-temporal-interaction-module)] \[[code](https://github.com/BrainCog-X/Brain-Cog/tree/main/examples/TIM) ⭐ 674 | 🐛 31 | 🌐 Python | 📅 2025-11-06]
 
-* Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 79 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
+* Learning a Spiking Neural Network for Efficient Image Deraining  \[[arxiv](https://arxiv.org/abs/2405.06277v1)] \[[paper with code](https://paperswithcode.com/paper/learning-a-spiking-neural-network-for)] \[[code](https://github.com/mingtian99/esdnet) ⭐ 80 | 🐛 9 | 🌐 Python | 📅 2025-07-07]
 
 * LitE-SNN: Designing Lightweight and Efficient Spiking Neural Network through Spatial-Temporal Compressive Network Search and Joint Optimization  \[[arxiv](https://arxiv.org/abs/2401.14652v2)] \[[paper with code](https://paperswithcode.com/paper/lite-snn-designing-lightweight-and-efficient)]
 
@@ -1021,7 +1021,7 @@
 
 * Integer-Valued Training and Spike-driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/150)] \[[arxiv](https://arxiv.org/abs/2407.20708v3)] \[[paper with code](https://paperswithcode.com/paper/integer-valued-training-and-spike-driven)] \[[code](https://github.com/biclab/spikeyolo) ⭐ 264 | 🐛 11 | 🌐 Python | 📅 2025-06-30]
 
-* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
+* Spiking Wavelet Transformer \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/2545)] \[[arxiv](https://arxiv.org/abs/2403.11138v5)] \[[paper with code](https://paperswithcode.com/paper/spiking-wavelet-transformer)] \[[code](https://github.com/bic-l/spiking-wavelet-transformer) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2025-07-13]
 
 * EAS-SNN: End-to-End Adaptive Sampling and Representation for Event-based Detection with Recurrent Spiking Neural Networks \[[paper](https://eccv2024.ecva.net//virtual/2024/poster/711)] \[[arxiv](https://arxiv.org/abs/2403.12574v2)] \[[paper with code](https://paperswithcode.com/paper/eas-snn-end-to-end-adaptive-sampling-and)] \[[code](https://github.com/windere/eas-snn) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2024-10-25]
 
@@ -1191,7 +1191,7 @@
 
 ## ICLR-2023
 
-* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 419 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
+* Spikformer: When Spiking Neural Network Meets Transformer \[[paper](https://iclr.cc/virtual/2023/poster/12139)] \[[arxiv](https://arxiv.org/abs/2209.15425)] \[[paper with code](https://paperswithcode.com/paper/spikformer-when-spiking-neural-network-meets)] \[[code](https://github.com/zk-zhou/spikformer) ⭐ 420 | 🐛 18 | 🌐 Python | 📅 2024-01-23] \[[openreview](https://openreview.net/forum?id=frE4fUwz_h)]
 
 * Bridging the Gap between ANNs and SNNs by Calibrating Offset Spikes \[[paper](https://iclr.cc/virtual/2023/poster/12118)] \[[arxiv](https://arxiv.org/abs/2302.10685)] \[[paper with code](https://paperswithcode.com/paper/bridging-the-gap-between-anns-and-snns-by)] \[[code](https://github.com/hzc1208/ann2snn_cos) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2023-02-10] \[[openreview](https://openreview.net/forum?id=PFbzoWZyZRX)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

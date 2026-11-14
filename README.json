@@ -59,7 +59,7 @@
                 "id": 1008049279,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-01-17T07:32:04Z",
+                "last_commit": "2026-11-14T11:34:13Z",
                 "open_issues": 0,
                 "owner": "junjianli106",
                 "repo": "MiCo",
@@ -743,7 +743,7 @@
                 "open_issues": 9,
                 "owner": "MingTian99",
                 "repo": "ESDNet-IJCAI2024",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -1346,7 +1346,7 @@
                 "open_issues": 0,
                 "owner": "bic-L",
                 "repo": "Spiking-Wavelet-Transformer",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2119,7 +2119,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:15:55.732Z",
+    "last_updated": "2026-11-14T15:52:08.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
