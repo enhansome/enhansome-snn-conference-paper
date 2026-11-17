@@ -1107,7 +1107,7 @@
 
 ## NeurIPS-2023
 
-* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 320 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
+* Spike-driven Transformer \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ca0f5358dbadda74b3049711887e9ead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2307.01694)] \[[paper with code](https://paperswithcode.com/paper/spike-driven-transformer-1)] \[[code](https://github.com/biclab/spike-driven-transformer) ⭐ 321 | 🐛 4 | 🌐 Python | 📅 2024-03-18] \[[openreview](https://openreview.net/forum?id=9FmolyOHi5)]
 
 * Parallel Spiking Neurons with High Efficiency and Ability to Learn Long-term Dependencies \[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a834ac3dfdb90da54292c2c932c997cc-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2304.12760)] \[[paper with code](https://paperswithcode.com/paper/parallel-spiking-neurons-with-high-efficiency)] \[[code](https://github.com/fangwei123456/parallel-spiking-neuron) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2024-01-21] \[[openreview](https://openreview.net/forum?id=rfTFJvTkr2)]
 
@@ -1295,9 +1295,9 @@
 
 * GLIF: A Unified Gated Leaky Integrate-and-Fire Neuron for Spiking Neural Networks \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cfa8440d500a6a6867157dfd4eaff66e-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.13768)] \[[paper with code](https://paperswithcode.com/paper/glif-a-unified-gated-leaky-integrate-and-fire)] \[[code](https://github.com/ikarosy/gated-lif) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2023-02-18] \[[openreview](https://openreview.net/forum?id=UmFSx2c4ubT)]
 
-* Training Spiking Neural Networks with Local Tandem Learning \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/523caec7832a47fb19b8471dbfeec471-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04532)] \[[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-with-local)] \[[code](https://github.com/aries231/local_tandem_learning_rule) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-10-07] \[[openreview](https://openreview.net/forum?id=nC8VC8gVGPo)]
+* Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cba76ef96c4cd625631ab4d33285b045-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2211.06027)] \[[paper with code](https://paperswithcode.com/paper/dance-of-snn-and-ann-solving-binding-problem)] \[[code](https://github.com/monstersecond/dasbe) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-26] \[[openreview](https://openreview.net/forum?id=-yiZR4_Xhh)]
 
-* Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cba76ef96c4cd625631ab4d33285b045-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2211.06027)] \[[paper with code](https://paperswithcode.com/paper/dance-of-snn-and-ann-solving-binding-problem)] \[[code](https://github.com/monstersecond/dasbe) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-26] \[[openreview](https://openreview.net/forum?id=-yiZR4_Xhh)]
+* Training Spiking Neural Networks with Local Tandem Learning \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/523caec7832a47fb19b8471dbfeec471-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2210.04532)] \[[paper with code](https://paperswithcode.com/paper/training-spiking-neural-networks-with-local)] \[[code](https://github.com/aries231/local_tandem_learning_rule) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-10-07] \[[openreview](https://openreview.net/forum?id=nC8VC8gVGPo)]
 
 * Mesoscopic modeling of hidden spiking neurons \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/953e742190ca02fc8f9f710052f2fead-Abstract-Conference.html)] \[[arxiv](https://arxiv.org/abs/2205.13493)] \[[paper with code](https://paperswithcode.com/paper/mesoscopic-modeling-of-hidden-spiking-neurons)] \[[code](https://github.com/epfl-lcn/neulvm) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2022-10-12] \[[openreview](https://openreview.net/forum?id=cYPja_wj9d)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

@@ -1704,7 +1704,7 @@
                 "open_issues": 4,
                 "owner": "BICLab",
                 "repo": "Spike-Driven-Transformer",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "neuromorphic-computing",
                   "spike-driven",
@@ -2482,27 +2482,6 @@
             },
             {
               "node_type": "item",
-              "title": "Training Spiking Neural Networks with Local Tandem Learning [paper",
-              "description": "] [arxiv] [paper with code] [code] [openreview]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 547259485,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-10-07T12:09:42Z",
-                "open_issues": 0,
-                "owner": "Aries231",
-                "repo": "Local_tandem_learning_rule",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:56:32.014Z"
-            },
-            {
-              "node_type": "item",
               "title": "Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention [paper",
               "description": "] [arxiv] [paper with code] [code] [openreview]",
               "children": [],
@@ -2517,6 +2496,27 @@
                 "open_issues": 0,
                 "owner": "monstersecond",
                 "repo": "DASBE",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:56:32.014Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Training Spiking Neural Networks with Local Tandem Learning [paper",
+              "description": "] [arxiv] [paper with code] [code] [openreview]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 547259485,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-10-07T12:09:42Z",
+                "open_issues": 0,
+                "owner": "Aries231",
+                "repo": "Local_tandem_learning_rule",
                 "stars": 6,
                 "topics": []
               },
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:41:19.259Z",
+    "last_updated": "2026-11-17T18:38:45.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 474,
+      "stars": 476,
       "topics": [
         "awesome",
         "awesome-list",
