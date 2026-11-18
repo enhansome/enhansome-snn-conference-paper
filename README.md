@@ -929,7 +929,7 @@
 
 * Gated Attention Coding for Training High-Performance and Efficient Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/27816)] \[[arxiv](https://arxiv.org/abs/2308.06582)] \[[paper with code](https://paperswithcode.com/paper/gated-attention-coding-for-training-high)] \[[code](https://github.com/bollossom/GAC) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2024-05-31]
 
-* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
+* Ternary Spike: Learning Ternary Spikes for Spiking Neural Networks \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29114)] \[[arxiv](https://arxiv.org/abs/2312.06372)] \[[paper with code](https://paperswithcode.com/paper/ternary-spike-learning-ternary-spikes-for)] \[[code](https://github.com/yfguo91/ternary-spike) ⭐ 32 | 🐛 4 | 🌐 Python | 📅 2023-12-14]
 
 * DeblurSR: Event-Based Motion Deblurring under the Spiking Representation \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28293)] \[[arxiv](https://arxiv.org/abs/2303.08977)] \[[paper with code](https://paperswithcode.com/paper/deblursr-event-based-motion-deblurring-under)] \[[code](https://github.com/chensong1995/deblursr) ⭐ 30 | 🐛 5 | 🌐 Python | 📅 2024-11-08]
 
@@ -1399,7 +1399,7 @@
 
 ## ICLR-2022
 
-* Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting \[[paper](https://iclr.cc/virtual/2022/poster/6033)] \[[arxiv](https://arxiv.org/abs/2202.11946)] \[[paper with code](https://paperswithcode.com/paper/temporal-efficient-training-of-spiking-neural-1)] \[[code](https://github.com/gus-lab/temporal_efficient_training) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2025-07-16] \[[openreview](https://openreview.net/forum?id=_XNtisL32jv)]
+* Temporal Efficient Training of Spiking Neural Network via Gradient Re-weighting \[[paper](https://iclr.cc/virtual/2022/poster/6033)] \[[arxiv](https://arxiv.org/abs/2202.11946)] \[[paper with code](https://paperswithcode.com/paper/temporal-efficient-training-of-spiking-neural-1)] \[[code](https://github.com/gus-lab/temporal_efficient_training) ⭐ 75 | 🐛 3 | 🌐 Python | 📅 2025-07-16] \[[openreview](https://openreview.net/forum?id=_XNtisL32jv)]
 
 * Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks \[[paper](https://iclr.cc/virtual/2022/poster/5899)] \[[arxiv](https://arxiv.org/abs/2303.04347)] \[[paper with code](https://paperswithcode.com/paper/optimal-ann-snn-conversion-for-high-accuracy-1)] \[[code](https://github.com/putshua/SNN_conversion_QCFS) ⭐ 63 | 🐛 4 | 🌐 Python | 📅 2023-08-31] \[[openreview](https://openreview.net/forum?id=7B3IJMM1k_M)]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
