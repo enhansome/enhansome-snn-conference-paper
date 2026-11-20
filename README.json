@@ -716,7 +716,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 676,
+                "stars": 675,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2168,7 +2168,7 @@
                 "open_issues": 31,
                 "owner": "BrainCog-X",
                 "repo": "Brain-Cog",
-                "stars": 676,
+                "stars": 675,
                 "topics": [
                   "brain-inspired-ai",
                   "brain-inspired-computation",
@@ -2261,7 +2261,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4430,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -2776,7 +2776,7 @@
                 "open_issues": 3,
                 "owner": "brain-intelligence-lab",
                 "repo": "temporal_efficient_training",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3405,7 +3405,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2358,
+                "stars": 2355,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:22:22.822Z",
+    "last_updated": "2026-11-20T17:52:34.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 476,
+      "stars": 475,
       "topics": [
         "awesome",
         "awesome-list",
