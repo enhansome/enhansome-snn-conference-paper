@@ -200,7 +200,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-04-03T12:00:52Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "MChen808",
                 "repo": "S3",
                 "stars": 2,
@@ -1322,7 +1322,7 @@
                 "open_issues": 11,
                 "owner": "BICLab",
                 "repo": "SpikeYOLO",
-                "stars": 265,
+                "stars": 264,
                 "topics": [
                   "neuromorphic-computing",
                   "spiking-neural-networks"
@@ -1367,7 +1367,7 @@
                 "open_issues": 0,
                 "owner": "Windere",
                 "repo": "EAS-SNN",
-                "stars": 42,
+                "stars": 41,
                 "topics": [
                   "adaptive-learning",
                   "event-based-detection",
@@ -1535,7 +1535,7 @@
                 "open_issues": 23,
                 "owner": "BICLab",
                 "repo": "EMS-YOLO",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "spiking-neural-network",
                   "spiking-yolo"
@@ -2119,7 +2119,7 @@
                 "open_issues": 18,
                 "owner": "ZK-Zhou",
                 "repo": "spikformer",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:32.014Z"
@@ -2261,7 +2261,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4429,
+                "stars": 4430,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3776,7 +3776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:25:07.429Z",
+    "last_updated": "2026-11-26T19:07:49.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥  This repository compiles research papers (from top-tier conferences and journals) and code implementations in the field of Spiking Neural Networks (SNNs). 本仓库收集了脉冲神经网络领域的顶会顶刊论文和代码，正在持续更新中。",
@@ -3788,7 +3788,7 @@
       "open_issues": 1,
       "owner": "AXYZdong",
       "repo": "awesome-snn-conference-paper",
-      "stars": 475,
+      "stars": 474,
       "topics": [
         "awesome",
         "awesome-list",
