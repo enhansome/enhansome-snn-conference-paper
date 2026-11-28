@@ -1337,7 +1337,7 @@
 
 * Fully Spiking Variational Autoencoder \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20665)] \[[arxiv](https://arxiv.org/abs/2110.00375)] \[[paper with code](https://paperswithcode.com/paper/fully-spiking-variational-autoencoder)] \[[code](https://github.com/kamata1729/FullySpikingVAE) ⭐ 76 | 🐛 2 | 🌐 Python | 📅 2023-05-03]
 
-* Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation \[[paper](https://arxiv.org/abs/2109.04871)] \[[code](https://github.com/ruizhao26/ste-flownet) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2022-10-18]
+* Spatio-Temporal Recurrent Networks for Event-Based Optical Flow Estimation \[[paper](https://arxiv.org/abs/2109.04871)] \[[code](https://github.com/ruizhao26/ste-flownet) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2022-10-18]
 
 * Spiking Neural Networks with Improved Inherent Recurrence Dynamics for Sequential Learning \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20771)] \[[arxiv](https://arxiv.org/abs/2109.01905)] \[[paper with code](https://paperswithcode.com/paper/spiking-neural-networks-with-improved)] \[[code](https://github.com/wponghiran/imp-snns-for-sl) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2022-05-05]
 
@@ -1665,4 +1665,4 @@ Thank the repo or blogs for their contributions to the collection of papers from
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
